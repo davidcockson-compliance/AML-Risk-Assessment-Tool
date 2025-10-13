@@ -105,9 +105,6 @@ Content based on: [Gambling Commission 2023 ML/TF Risk Assessment](https://www.g
 ## 🗺️ Roadmap
 
 ### Phase 1: Content Preparation (Week 1)
-- Extract and cate## 🗺️ Roadmap
-
-### Phase 1: Content Preparation (Week 1)
 - Extract and categorize risks from GC 2023 guidance
 - Identify simplest Low-risk sector for demo
 - Create risk library structure
