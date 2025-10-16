@@ -1,0 +1,427 @@
+# UKGC 2023 Money Laundering and Terrorist Financing Risk Tracker
+
+## Remote Bingo Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| RB-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-OC-002 | Operators self-staking | Operators staking and winning directly and indirectly on their own products (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-OC-003 | Poor source of funds checks | Poor source of funds checks allowing criminals to launder funds without proper verification (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-OC-004 | Inadequate KYC checks | Inadequate or lack of 'know your customer' (KYC) checks enabling identity fraud and money laundering (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-OC-005 | Third party business relationships | Third party business relationships and business investors potentially linked to organized crime (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-LI-001 | Organized crime ownership | Gambling operations run by organised criminals to launder criminally derived funds (Likelihood: Low, Impact: High, Overall: 3) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-CV-001 | Customer not physically present | Customer not physically present for identification, enabling easier identity fraud and reduced verification effectiveness (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-CV-002 | False or stolen documentation | False or stolen documentation used to bypass controls to launder criminally derived funds (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-CV-003 | Multiple remote accounts | Accessibility to multiple remote accounts across different operators to fragment transactions and avoid detection (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-CV-004 | Sanctioned customers | Customers on the sanction list attempting to access gambling services despite asset freezes (Likelihood: Low, Impact: High, Overall: 3) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-CV-005 | Third party agents | Use of third parties or agents to obscure the source or ownership of money gambled by customers and their identities (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-CV-006 | Smurfing | 'Smurfing' - making numerous low-level transactions to minimise suspicion and evade CDD requirements (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-MP-001 | Cryptoasset transactions | Cryptoasset transactions providing anonymity and difficulty in tracing funds (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-MP-002 | Pre-paid cards | Pre-paid cards used to obscure source of funds and enable anonymous deposits (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-MP-003 | Multiple payment methods | Multiple methods of payment used to layer transactions and obscure audit trail (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+| RB-MP-004 | E-wallets | E-wallets providing additional layer of separation from source of funds (Likelihood: Medium, Impact: Medium, Overall: 4) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Bingo |
+
+## Non-Remote Bingo Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| NRB-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: Medium, Impact: Medium, Overall: 4) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+| NRB-OC-002 | Inadequate KYC checks | Lack of or inadequate 'know your customer' (KYC) checks conducted resulting in criminals laundering criminal proceeds (Likelihood: Medium, Impact: Medium, Overall: 4) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+| NRB-OC-003 | Third party business relationships | Third party business relationships and business investors potentially linked to organized crime (Likelihood: Medium, Impact: Medium, Overall: 4) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+| NRB-LI-001 | Organized crime acquisition | Gambling operations being acquired by organised crime to launder criminal proceeds (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+| NRB-LI-002 | Employee collusion | Employees colluding with criminals to facilitate money laundering (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+| NRB-CV-001 | Anonymous gaming machine customers | Anonymous customers laundering proceeds of crime through gaming machines (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+| NRB-PV-001 | Electronic Betting Terminals | Electronic Betting Terminals (EBTs) including table-top gaming used for money laundering (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+| NRB-PV-002 | Gaming Machines Category B3 | Gaming Machines, Category B3 with higher stakes used for laundering (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+| NRB-PV-003 | BYOD systems | Bring your own device (BYOD) systems introducing new vulnerabilities (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+| NRB-MP-001 | Cash payments | Cash payments providing anonymity and difficulty in source verification (Likelihood: Medium, Impact: Medium, Overall: 4) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+| NRB-MP-002 | TITO facilities | Ticket-in-ticket-out (TITO) facilities used to launder funds when used in conjunction with automatic ticket redemption machines (ATR) (Likelihood: Medium, Impact: Medium, Overall: 4) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+| NRB-MP-003 | Cashless payment | Cashless payment methods in land-based venues (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+| NRB-MP-004 | Scottish notes | Scottish notes used to exchange for English notes without proper source verification (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Non-Remote Bingo |
+
+## Remote Casino Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| RC-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: High, Impact: High, Overall: 9) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-OC-002 | High monetary thresholds | High monetary thresholds allowing large-scale money laundering without triggering enhanced due diligence (Likelihood: High, Impact: High, Overall: 9) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-OC-003 | High value customer schemes | High value customer schemes (VIP programs) potentially exploited by money launderers (Likelihood: Medium, Impact: High, Overall: 6) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-OC-004 | Failure to implement closed loop | Failure to implement a closed loop system allowing withdrawals to different payment methods than deposits (Likelihood: Medium, Impact: High, Overall: 6) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-OC-005 | Over-reliance on payment providers | Over reliance on payment providers for carrying out customer due diligence (CDD) measures (Likelihood: Medium, Impact: High, Overall: 6) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-OC-006 | Third party business relationships | Third party business relationships and business investors potentially linked to organized crime (Likelihood: Medium, Impact: High, Overall: 6) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-OC-007 | Lack of personnel competence | Lack of competence of key personnel and licence holders which can then potentially be exploited by criminals seeking to launder the proceeds of crime (Likelihood: Medium, Impact: High, Overall: 6) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-LI-001 | Organized crime ownership | Gambling operations being acquired by organised crime to launder criminal proceeds or the Ultimate Beneficial Ownership is a criminal or involved in criminal activity (Likelihood: Low, Impact: High, Overall: 3) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-LI-002 | White label providers | White label providers creating oversight challenges and potential criminal exploitation (Likelihood: High, Impact: High, Overall: 9) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-CV-001 | Customer not physically present | Customer not physically present for identification purposes, enabling easier identity fraud (Likelihood: High, Impact: High, Overall: 9) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-CV-002 | False or stolen identity documentation | False or stolen identity documentation used to bypass controls to facilitate the laundering of criminal funds (Likelihood: High, Impact: High, Overall: 9) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-CV-003 | Multiple remote casinos | Accessibility to multiple remote casinos to fragment transactions and avoid detection thresholds (Likelihood: High, Impact: High, Overall: 9) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-CV-004 | Sanctioned customers | Customers who appear on financial sanctions lists laundering funds which are subject to an asset freeze (Likelihood: Low, Impact: High, Overall: 3) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-CV-005 | Foreign PEPs | Foreign politically exposed persons (PEPs) using casinos to launder illicit or criminal funds (Likelihood: Medium, Impact: High, Overall: 6) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-CV-006 | Domestic PEPs | Domestic PEPs using casinos to clean criminal funds identification and verification (Likelihood: Low, Impact: Medium, Overall: 2) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-CV-007 | Smurfing | Customers making numerous low-level transactions to minimise suspicion and evade CDD requirements at the threshold ('smurfing') (Likelihood: High, Impact: High, Overall: 9) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-CV-008 | Third party agents | Use of third parties or agents to obscure the source or ownership of money gambled by customers and their identities (Likelihood: High, Impact: High, Overall: 9) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-CV-009 | Organised crime gangs | Organised crime gangs using casinos systematically for money laundering operations (Likelihood: Medium, Impact: High, Overall: 6) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-CV-010 | Mule accounts | Mule accounts used to layer transactions and obscure beneficial ownership (Likelihood: High, Impact: High, Overall: 9) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-MP-001 | E-wallet | E-wallet providing additional layer of separation from source of funds (Likelihood: Medium, Impact: Medium, Overall: 4) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-MP-002 | Crypto asset transactions | Crypto asset transactions providing anonymity and difficulty in tracing funds (Likelihood: Medium, Impact: High, Overall: 6) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-MP-003 | Pre-paid cards | Pre-paid cards used to obscure source of funds and enable anonymous deposits (Likelihood: High, Impact: High, Overall: 9) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-MP-004 | Multiple payment methods | Multiple methods of payment used to layer transactions and obscure audit trail (Likelihood: Medium, Impact: High, Overall: 6) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-MP-005 | Casinos as MSBs | Casinos acting as Money Service Businesses (MSBs) creating additional ML/TF vulnerabilities (Likelihood: High, Impact: High, Overall: 9) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-PV-001 | Peer to Peer Gaming | Peer to Peer Gaming (poker) - Business to Business and Business to Customer enabling player-to-player fund transfers (Likelihood: High, Impact: High, Overall: 9) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-PV-002 | High-stakes gambling | High-stakes gambling and feature buy-in slots allowing rapid movement of large sums (Likelihood: Medium, Impact: High, Overall: 6) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+| RC-GV-001 | High-risk jurisdictions | Customers from high-risk jurisdictions using casino facilities to launder criminal funds (Likelihood: Medium, Impact: High, Overall: 6) | Casino Remote | UKGC 2023 ML/TF Risk Assessment - Remote Casino |
+
+## Gambling Software Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| GS-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: Low, Impact: Low, Overall: 1) | Gambling Software | UKGC 2023 ML/TF Risk Assessment - Gambling Software |
+| GS-OC-002 | Inadequate third-party due diligence | Inadequate or lack of due diligence checks on any third-party providers (for example, test houses) (Likelihood: Low, Impact: Medium, Overall: 2) | Gambling Software | UKGC 2023 ML/TF Risk Assessment - Gambling Software |
+| GS-OC-003 | Third party business relationships | Third-party business relationships and business investors potentially linked to organized crime (Likelihood: Low, Impact: Medium, Overall: 2) | Gambling Software | UKGC 2023 ML/TF Risk Assessment - Gambling Software |
+
+## Gaming Machine Technical Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| GMT-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: Low, Impact: Low, Overall: 1) | Technical | UKGC 2023 ML/TF Risk Assessment - Gaming Machine Technical |
+| GMT-OC-002 | Inadequate third-party due diligence | Inadequate or lack of due diligence checks on any third-party providers (for example, test houses) (Likelihood: Medium, Impact: Low, Overall: 2) | Technical | UKGC 2023 ML/TF Risk Assessment - Gaming Machine Technical |
+| GMT-OC-003 | Lack of technical standards adherence | Lack of adherence with Technical Standards creating vulnerabilities (Likelihood: Low, Impact: Low, Overall: 1) | Technical | UKGC 2023 ML/TF Risk Assessment - Gaming Machine Technical |
+| GMT-OC-004 | Third party business relationships | Third-party business relationships and business investors potentially linked to organized crime (Likelihood: Low, Impact: Medium, Overall: 2) | Technical | UKGC 2023 ML/TF Risk Assessment - Gaming Machine Technical |
+| GMT-PV-001 | Gaming machines for laundering | Gaming machines Category B, C and D, fixed odds betting terminals (FOBTs), self-service betting terminals (SSBTs), ticket-in-ticket-out (TITO) used to launder the proceeds of crime (Likelihood: Low, Impact: Low, Overall: 1) | Technical | UKGC 2023 ML/TF Risk Assessment - Gaming Machine Technical |
+| GMT-PV-002 | TITO with ATR machines | TITO-enabled gaming machines used to launder funds when used with Automated ticket redemption machines (ATR) (Likelihood: Low, Impact: Low, Overall: 1) | Technical | UKGC 2023 ML/TF Risk Assessment - Gaming Machine Technical |
+
+---
+
+## Society Lotteries & External Lottery Manager Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| SL-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - Society Lotteries |
+| SL-OC-002 | Third party business relationships | Third-party business relationships and business investors (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - Society Lotteries |
+| SL-OC-003 | Proceeds misappropriation | Licensee failing to transfer lottery proceeds to charities (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Society Lotteries |
+| SL-LI-001 | Organized crime acquisition | Operator being acquired by organised crime to launder criminal funds (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - Society Lotteries |
+| SL-CV-001 | Anonymous customers | Anonymous customers (Non-Remote) (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - Society Lotteries |
+| SL-CV-002 | False and stolen identity | False and stolen identity documentation (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - Society Lotteries |
+| SL-CV-003 | Customer not physically present | Customer not physically present (remote) (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - Society Lotteries |
+| SL-PV-001 | Interactive instant win games online | Interactive instant win games (online) (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - Society Lotteries |
+| SL-PV-002 | Scratch cards | Scratch cards or interactive instant win games (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - Society Lotteries |
+| SL-MP-001 | Cash transactions | Cash transactions (non-remote only) (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - Society Lotteries |
+
+## National Lottery Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| NL-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - National Lottery |
+| NL-OC-002 | KYC checks | 'Know your customer' (KYC) checks (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - National Lottery |
+| NL-LI-001 | Organized crime acquisition | National Lottery acquired by organised crime to launder criminal funds (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - National Lottery |
+| NL-CV-001 | Anonymous customers | Anonymous customers (non-remote) (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - National Lottery |
+| NL-CV-002 | False and stolen identity | False and stolen identity documentation (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - National Lottery |
+| NL-CV-003 | Customer not physically present | Customer not physically present (remote) (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - National Lottery |
+| NL-PV-001 | Scratch cards | Scratch cards or interactive instant win games (Likelihood: Low, Impact: Low, Overall: 1) | Bingo | UKGC 2023 ML/TF Risk Assessment - National Lottery |
+
+## Adult Gaming Centre Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| AGC-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-OC-002 | Lack of personnel competency | Lack of competency of key personnel and licence holders which can then be exploited by criminals seeking to launder the proceeds of crime (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-OC-003 | Third party business relationships | Third party business relationships and business investors (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-LI-001 | Organized crime acquisition | Arcade businesses being acquired by organised crime to launder criminal proceeds (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-CV-001 | Anonymous customers | Anonymous customers laundering proceeds of crime through gaming machines (Likelihood: Medium, Impact: Medium, Overall: 4) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-PV-001 | ATR machines | Automated ticket redemption (ATR) machines used to facilitate the laundering of criminally derived funds (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-PV-002 | Gaming machines Category B3 | Gaming machines, Category B3 being used to launder criminally derived funds (Likelihood: Medium, Impact: Medium, Overall: 4) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-PV-003 | Privacy booths | Privacy booths reducing staff oversight and enabling private transactions (Likelihood: Medium, Impact: Medium, Overall: 4) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-PV-004 | BYOD systems | Bring your own device (BYOD) (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-MP-001 | Cash transactions | Cash transactions providing anonymity (Likelihood: Medium, Impact: Medium, Overall: 4) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-MP-002 | Cashless payments | Cashless payments creating new vulnerabilities (Likelihood: Medium, Impact: Medium, Overall: 4) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-MP-003 | TITO facilities | Ticket-in-ticket-out (TITO) facilities used to launder funds, when used in conjunction with ATR machines (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-MP-004 | Dyed notes | Dyed notes from theft or robbery (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+| AGC-MP-005 | Scottish notes | Scottish notes including counterfeit concerns (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - AGC |
+
+## Family Entertainment Centre Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| FEC-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - FEC |
+| FEC-OC-002 | Lack of personnel competency | Lack of competency of key personnel and licence holders which can then be exploited by criminals seeking to launder the proceeds of crime (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - FEC |
+| FEC-OC-003 | Third party business relationships | Third party business relationships and business investors (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - FEC |
+| FEC-LI-001 | Organized crime acquisition | Arcade businesses being acquired by organised crime to launder criminal proceeds (Likelihood: Low, Impact: Low, Overall: 1) | AGC | UKGC 2023 ML/TF Risk Assessment - FEC |
+| FEC-CV-001 | Anonymous customers | Anonymous customers laundering proceeds of crime through gaming machines (Likelihood: Low, Impact: Low, Overall: 1) | AGC | UKGC 2023 ML/TF Risk Assessment - FEC |
+| FEC-PV-001 | Privacy booths | Privacy booths in family environment (Likelihood: Medium, Impact: Low, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - FEC |
+| FEC-PV-002 | BYOD systems | Bring your own device (BYOD) (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - FEC |
+| FEC-MP-001 | Cash transactions | Cash transactions (Likelihood: Medium, Impact: Medium, Overall: 4) | AGC | UKGC 2023 ML/TF Risk Assessment - FEC |
+| FEC-MP-002 | Cashless payments | Cashless payments (Likelihood: Medium, Impact: Medium, Overall: 4) | AGC | UKGC 2023 ML/TF Risk Assessment - FEC |
+| FEC-MP-003 | Dyed notes | Dyed notes from theft or robbery (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - FEC |
+| FEC-MP-004 | Scottish notes | Scottish notes including counterfeit concerns (Likelihood: Low, Impact: Medium, Overall: 2) | AGC | UKGC 2023 ML/TF Risk Assessment - FEC |
+
+## Remote Betting Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| RBet-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-OC-002 | Operators self-staking | Operators staking and winning directly and indirectly on their own products (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-OC-003 | Lack of personnel competence | Lack of competence of key personnel and licence holders which can then be exploited by criminals seeking to launder the proceeds of crime (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-OC-004 | Inadequate KYC checks | Inadequate or lack of 'know your customer' (KYC) checks resulting in criminals laundering criminal proceeds or risk of this occurring (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-OC-005 | High value customer schemes | 'High value' customer schemes (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-OC-006 | High monetary thresholds | High monetary thresholds allowing large-scale money laundering (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-OC-007 | KYC at withdrawal | KYC completed at the point of withdrawal creating laundering window (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-OC-008 | Third party business relationships | Third party business relationships and business investors (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-LI-001 | Organized crime ownership | Gambling operations run or acquired by organised criminals to launder criminally derived funds (Likelihood: Low, Impact: High, Overall: 3) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-LI-002 | White label providers | White label providers creating oversight challenges (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-CV-001 | False or stolen documentation | False or stolen documentation used to bypass controls to launder criminally derived funds (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-CV-002 | Multiple remote accounts | Accessibility to multiple remote accounts (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-CV-003 | High-risk jurisdictions | Customers from high risk or non-cooperative jurisdictions using remote facilities to launder criminally derived funds (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-CV-004 | Sanctioned customers | Customers who appear on international financial sanctions lists laundering criminal funds (Likelihood: Low, Impact: High, Overall: 3) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-CV-005 | Smurfing | 'Smurfing' - numerous low-level transactions to evade detection (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-CV-006 | Mule betting accounts | 'Mule' betting accounts used to layer transactions (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-CV-007 | PEPs | Politically exposed persons (PEPs) (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-CV-008 | Business customers | Business customers (betting exchange) (Likelihood: Medium, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-CV-009 | Third party agents | Use of third parties or agents to obscure the source or ownership of money gambled by customers and their identities (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-MP-001 | E-wallets | E-wallets providing separation from source of funds (Likelihood: Medium, Impact: Medium, Overall: 4) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-MP-002 | Cryptoasset transactions | Cryptoasset transactions providing anonymity (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-MP-003 | Pre-paid cards | Pre-paid cards obscuring source of funds (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-MP-004 | Lack of closed loop | Lack of 'closed loop' system allowing withdrawals to different methods (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-MP-005 | Multiple payment methods | Multiple methods of payment layering transactions (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-PV-001 | Peer to peer betting | Peer to peer betting enabling direct customer transactions (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+| RBet-PV-002 | Unregulated betting events | Unregulated betting events (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Remote Betting |
+
+## Non-Remote Casino Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| NRC-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: High, Impact: High, Overall: 9) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-OC-002 | MLRO undermining | Undermining of the Money Laundering Reporting Officer (MLRO) role by senior management (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-OC-003 | Lack of personnel competence | Lack of competence of key personnel and licence holders which can then potentially be exploited by criminals (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-OC-004 | Inadequate due diligence | Lack of adequate and relevant due diligence checks conducted resulting in criminals laundering money (Likelihood: High, Impact: High, Overall: 9) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-OC-005 | Lack of compliance officer | Lack of key person in place responsible for regulatory compliance (as required under regulation 21(1)(a)) (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-OC-006 | Unlicensed ID checkers | Employees who do not hold a personal licence being responsible for ID checks (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-OC-007 | Third party business relationships | Third party business relationships and business investors (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-OC-008 | Unlicensed criminal employees | Unlicensed casino employees with known criminal records or suspected criminal activities (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-LI-001 | Organized crime ownership | Gambling operations being acquired by organised crime to launder criminal proceeds (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-LI-002 | Employee collusion | Employees colluding with criminals (Likelihood: High, Impact: High, Overall: 9) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-GV-001 | High-risk jurisdictions | Customer from high-risk jurisdictions using casino facilities to launder money (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-CV-001 | Sanctioned customers | Customers who appear on financial sanctions list laundering funds which are subject to asset freeze (Likelihood: Low, Impact: High, Overall: 3) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-CV-002 | Foreign PEPs | Foreign politically exposed persons (PEPs) using casinos to clean criminal funds (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-CV-003 | Domestic PEPs | Domestic PEPs using casinos to clean criminal funds (Likelihood: Low, Impact: Medium, Overall: 2) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-CV-004 | False or stolen ID | False or fraudulently obtained or stolen ID docs used to bypass controls (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-CV-005 | Smurfing | Customers breaking up large amounts of cash into small transactions to minimise suspicion and evade CDD requirements ('smurfing') (Likelihood: High, Impact: High, Overall: 9) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-CV-006 | Third party agents | Use of third parties or agents to obscure the source or ownership of money gambled by customers and their identities (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-MP-001 | Cash transactions | Cash transactions providing anonymity and difficulty in verification (Likelihood: High, Impact: High, Overall: 9) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-MP-002 | Casinos as MSBs | Casinos acting as Money Service Businesses (MSBs) including foreign exchange and money transmission (Likelihood: High, Impact: High, Overall: 9) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-MP-003 | Cryptoasset payments | Cryptoasset payments providing anonymity (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-MP-004 | Cashless payments | Cashless payments creating new vulnerabilities (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-MP-005 | Inter-customer transfers | Transfer of funds between casino customers (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-MP-006 | Scottish notes | Scottish notes used for large exchanges (Likelihood: Low, Impact: High, Overall: 3) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-PV-001 | BYOD systems | Bring your own devices (BYODs) (Likelihood: Low, Impact: High, Overall: 3) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-PV-002 | Electronic roulette with TITO | Electronic roulette - when used with ticket in ticket out and automatic ticket redemption machines (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-PV-003 | Gaming machines | Gaming machines (all) (Likelihood: Medium, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+| NRC-PV-004 | Peer to peer gaming | Peer to peer gaming (poker) business to customer (B2C) (Likelihood: High, Impact: High, Overall: 6) | Casino landbased | UKGC 2023 ML/TF Risk Assessment - Non-Remote Casino |
+
+## Off-Course Betting Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| OCB-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-OC-002 | Lack of customer interaction | Lack of effective customer interaction resulting in a failure to prevent and/or detect Money Laundering or Terrorist financing (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-OC-003 | Inadequate KYC checks | Inadequate or lack of 'know your customer' (KYC) checks resulting in criminals laundering criminal proceeds (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-OC-004 | Third party business relationships | Third party business relationships and business investors (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-LI-001 | Organized crime acquisition | Betting operations being acquired by organised crime to launder criminal proceeds (Likelihood: Low, Impact: High, Overall: 3) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-LI-002 | Employee collusion | Betting employees acting in collusion with organised criminals to launder criminal funds (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-CV-001 | Unverified customers | Unverified customers laundering proceeds of crime through betting (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-CV-002 | Multiple premises access | Accessibility to multiple premises and operators to fragment transactions (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-CV-003 | False or stolen ID | False or stolen identification documentation used to bypass controls to launder criminal funds (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-CV-004 | Organised criminal gangs | Organised criminal gangs (OCGs) (Likelihood: Low, Impact: High, Overall: 3) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-PV-001 | Gaming machines | Gaming machines used to launder criminal funds (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-PV-002 | SSBTs and TITO | Self service betting terminals and ticket-in-ticket-out (TITO) machines used to launder criminal funds (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-PV-003 | BYOD | Bring your own device (BYOD) (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-MP-001 | Cash transactions | Cash transactions providing anonymity (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-MP-002 | Cashless transactions | Cashless transactions (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-MP-003 | Dyed notes | Dyed notes from theft or robbery (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-MP-004 | Lack of closed loop | Lack of 'closed loop' system allowing cash-in/cashless-out schemes (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-MP-005 | Multiple payment methods | Multiple methods of payment (Likelihood: Medium, Impact: High, Overall: 6) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+| OCB-MP-006 | Scottish notes | Scottish notes (Likelihood: Low, Impact: High, Overall: 3) | Bingo | UKGC 2023 ML/TF Risk Assessment - Off-Course Betting |
+
+## On-Course Betting Risks
+
+| RiskID | RiskTitle | RiskDescription | ApplicableSectors | SourceReference |
+|--------|-----------|-----------------|-------------------|-----------------|
+| ONC-OC-001 | Operators failing to comply with ML/TF legislation | Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance (Likelihood: Medium, Impact: Medium, Overall: 4) | Bingo | UKGC 2023 ML/TF Risk Assessment - On-Course Betting |
+| ONC-OC-002 | Lack of customer interaction | Lack of effective customer interaction resulting in a failure to prevent and/or detect ML or TF (Likelihood: Medium, Impact: Medium, Overall: 4) | Bingo | UKGC 2023 ML/TF Risk Assessment - On-Course Betting |
+| ONC-OC-003 | Inadequate KYC checks | Inadequate or lack of KYC checks resulting in criminals laundering criminal proceeds (Likelihood: Medium, Impact: Medium, Overall: 4) | Bingo | UKGC 2023 ML/TF Risk Assessment - On-Course Betting |
+| ONC-OC-004 | Unlicensed gambling activities | On-course bookmakers providing unlicensed gambling activities (e.g., accepting bets over the phone without required ancillary betting licence) (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - On-Course Betting |
+| ONC-LI-001 | Organized crime acquisition | Betting operations being acquired by organised crime to launder criminal proceeds (Likelihood: Low, Impact: High, Overall: 3) | Bingo | UKGC 2023 ML/TF Risk Assessment - On-Course Betting |
+| ONC-LI-002 | Employee collusion | Betting employees acting in collusion with organised criminals to launder criminal funds (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - On-Course Betting |
+| ONC-CV-001 | Unverified customers | Unverified customers laundering proceeds of crime through betting (Likelihood: Medium, Impact: Medium, Overall: 4) | Bingo | UKGC 2023 ML/TF Risk Assessment - On-Course Betting |
+| ONC-CV-002 | Organised criminal gangs | Organised criminal gangs (OCGs) (Likelihood: Low, Impact: High, Overall: 3) | Bingo | UKGC 2023 ML/TF Risk Assessment - On-Course Betting |
+| ONC-PV-001 | BYOD | Bring your own device (BYOD) (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - On-Course Betting |
+| ONC-MP-001 | Cash transactions | Cash transactions (Likelihood: High, Impact: High, Overall: 9) | Bingo | UKGC 2023 ML/TF Risk Assessment - On-Course Betting |
+| ONC-MP-002 | Dyed notes | Dyed notes from theft or robbery (Likelihood: Low, Impact: Medium, Overall: 2) | Bingo | UKGC 2023 ML/TF Risk Assessment - On-Course Betting |
+| ONC-MP-003 | Scottish notes | Scottish notes (Likelihood: Low, Impact: High, Overall: 3) | Bingo | UKGC 2023 ML/TF Risk Assessment - On-Course Betting |
+
+---
+
+## Risk Summary Statistics
+
+### By Overall Risk Rating
+- **High Risk (9):** 41 risks
+- **High Risk (6):** 60 risks
+- **Medium Risk (4):** 19 risks
+- **Medium Risk (3):** 17 risks
+- **Medium Risk (2):** 16 risks
+- **Low Risk (2):** 26 risks
+- **Low Risk (1):** 18 risks
+
+### By Sector
+- **Remote Bingo:** 16 risks
+- **Non-Remote Bingo:** 13 risks
+- **Remote Casino:** 29 risks
+- **Non-Remote Casino:** 26 risks
+- **Remote Betting:** 26 risks
+- **Off-Course Betting:** 17 risks
+- **On-Course Betting:** 12 risks
+- **Adult Gaming Centres:** 14 risks
+- **Family Entertainment Centres:** 11 risks
+- **Society Lotteries:** 10 risks
+- **National Lottery:** 7 risks
+- **Gambling Software:** 3 risks
+- **Gaming Machine Technical:** 6 risks
+
+**Total Risks Identified: 197**
+
+### Highest Risk Areas (Rating 9)
+
+**Operator Compliance & Controls:**
+1. Operators failing to comply with ML/TF legislation (Remote Casino, Remote Bingo, Remote Betting, Non-Remote Casino, Off-Course Betting)
+2. High monetary thresholds (Remote Casino, Remote Betting)
+3. Inadequate KYC checks (Remote Casino, Remote Bingo, Remote Betting, Off-Course Betting)
+4. Poor source of funds checks (Remote Bingo)
+5. Inadequate due diligence (Non-Remote Casino)
+
+**Licensing & Integrity:**
+6. White label providers (Remote Casino, Remote Betting)
+7. Employee collusion (Non-Remote Casino)
+
+**Customer Vulnerabilities:**
+8. Customer not physically present (Remote Casino, Remote Bingo)
+9. False/stolen documentation (Remote Casino, Remote Bingo, Remote Betting)
+10. Multiple remote accounts (Remote Casino, Remote Bingo)
+11. Smurfing (Remote Casino, Remote Bingo, Remote Betting, Non-Remote Casino)
+12. Third party agents (Remote Casino, Remote Bingo, Remote Betting)
+13. Mule accounts (Remote Casino, Remote Betting)
+14. Business customers on betting exchanges (Remote Betting)
+15. Unverified customers (Off-Course Betting)
+16. Multiple premises access (Off-Course Betting)
+
+**Payment Vulnerabilities:**
+17. Pre-paid cards (Remote Casino, Remote Bingo, Remote Betting)
+18. Casinos as MSBs (Remote Casino, Non-Remote Casino)
+19. Cash transactions (Non-Remote Casino, Off-Course Betting, On-Course Betting)
+
+**Product Vulnerabilities:**
+20. Peer to peer gaming/betting (Remote Casino, Remote Betting)
+
+### Risk Distribution by Category
+
+**Operator Control Vulnerabilities:** 64 risks
+- Highest concentration in remote sectors
+- Compliance failures, KYC inadequacies, and personnel competence are key themes
+
+**Customer Vulnerabilities:** 50 risks
+- Identity verification challenges
+- Anonymous access patterns
+- Use of intermediaries and structuring techniques
+
+**Means of Payment Vulnerabilities:** 48 risks
+- Cash transactions dominate land-based risks
+- Pre-paid cards and cryptoassets in remote sectors
+- Closed loop system failures
+
+**Licensing & Integrity Vulnerabilities:** 16 risks
+- Organized crime infiltration concerns
+- White label arrangements
+- Employee collusion
+
+**Product Vulnerabilities:** 24 risks
+- Gaming machines (various categories)
+- P2P platforms
+- TITO/ATR systems
+
+**Geographic Vulnerabilities:** 3 risks
+- High-risk jurisdiction customers
+- Primarily in casino sectors
+
+### Sector Risk Profiles
+
+**Highest Risk Sectors (Most 9-rated risks):**
+1. **Remote Casino** - 16 risks rated 9
+2. **Remote Betting** - 9 risks rated 9
+3. **Non-Remote Casino** - 5 risks rated 9
+4. **Off-Course Betting** - 4 risks rated 9
+5. **Remote Bingo** - 4 risks rated 9
+
+**Medium Risk Sectors:**
+6. **Adult Gaming Centres** - 0 risks rated 9, highest is 4
+7. **Non-Remote Bingo** - 0 risks rated 9, highest is 4
+
+**Low Risk Sectors:**
+8. **On-Course Betting** - 1 risk rated 9 (cash only)
+9. **Family Entertainment Centres** - 0 risks rated above 4
+10. **Society Lotteries** - 0 risks rated above 2
+11. **National Lottery** - 0 risks rated above 2
+12. **Gambling Software** - 0 risks rated above 2
+13. **Gaming Machine Technical** - 0 risks rated above 2
+
+### Emerging & New Risks (2023 Assessment)
+
+**New Risk Ratings Introduced:**
+- Third party business relationships (across multiple sectors)
+- High monetary thresholds (Remote Casino, Remote Betting)
+- KYC at withdrawal point (Remote Betting)
+- Business customers on betting exchanges (Remote Betting)
+- Cashless payments (various sectors)
+- Scottish notes (multiple sectors)
+- BYOD systems (multiple sectors)
+- Unlicensed employees doing ID checks (Non-Remote Casino)
+- Lack of compliance officer (Non-Remote Casino)
+
+**Risks with Increased Likelihood/Impact:**
+- Smurfing (Remote Betting)
+- Peer to peer betting (Remote Betting)
+- Cash transactions (AGCs and FECs)
+- Cashless transactions (Off-Course Betting)
+- False/stolen ID impact (Off-Course Betting)
+
+**Risks with Decreased Likelihood:**
+- Multiple remote accounts (Remote Bingo, Remote Betting)
+- High-risk jurisdiction customers (Remote Betting)
+- Lack of personnel competence (Remote Betting, Non-Remote Casino)
+- Gaming machines (Non-Remote Casino, Off-Course Betting)
+- BYOD (Off-Course, On-Course Betting)
+
+### Key Takeaways for Compliance
+
+**Universal High Risks (Across Multiple Sectors):**
+- Compliance failures with ML/TF legislation
+- Inadequate KYC and due diligence
+- Cash transaction vulnerabilities
+- Smurfing and structuring patterns
+- Third party relationships
+
+**Remote Sector Specific:**
+- Customer identification challenges
+- Payment method diversity
+- White label arrangements
+- Multiple account accessibility
+
+**Land-Based Sector Specific:**
+- Employee collusion and insider threats
+- MSB activity controls
+- Gaming machine vulnerabilities
+- Cash handling and verification
+
+**Regulatory Focus Areas:**
+- Enhanced scrutiny on high-risk (9-rated) areas
+- Proportionate controls for low-risk sectors
+- Emerging payment technologies
+- Cross-border and jurisdictional risks
+- Personnel competence and training
