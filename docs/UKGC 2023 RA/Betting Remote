@@ -1,0 +1,112 @@
+# Betting (Remote) - Money Laundering and Terrorist Financing Risk Assessment 2023
+
+**Overall Risk Rating:** High
+
+## Summary
+
+Remote betting operations present high risk for money laundering and terrorist financing due to the lack of physical customer presence, accessibility to multiple accounts, and vulnerabilities in payment systems. The sector faces particular challenges with identity verification, mule accounts, and peer-to-peer betting platforms.
+
+## Inherent Risks by Vulnerability Category
+
+### Operator Control Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance | High (3) | High (3) | High (9) | No change |
+| Operators staking and winning directly and indirectly on their own products | Low (1) | Medium (2) | Low (2) | No change |
+| Lack of competence of key personnel and licence holders which can then be exploited by criminals seeking to launder the proceeds of crime | Medium (2) | High (3) | High (6) | Decrease in likelihood |
+| Inadequate or lack of 'know your customer' (KYC) checks resulting in criminals laundering criminal proceeds or risk of this occurring | High (3) | High (3) | High (9) | No change |
+| 'High value' customer schemes | Medium (2) | High (3) | High (6) | No change |
+| High monetary thresholds | High (3) | High (3) | High (9) | New risk rating |
+| KYC completed at the point of withdrawal | Medium (2) | High (3) | High (6) | New risk rating |
+| Third party business relationships and business investors | Medium (2) | High (3) | High (6) | New risk rating |
+
+### Licensing and Integrity Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Gambling operations run or acquired by organised criminals to launder criminally derived funds | Low (1) | High (3) | Medium (3) | Decrease in likelihood |
+| White label providers | High (3) | High (3) | High (9) | No change |
+
+### Customer Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| False or stolen documentation used to bypass controls to launder criminally derived funds | High (3) | High (3) | High (9) | No change |
+| Accessibility to multiple remote accounts | Medium (2) | High (3) | High (6) | Decrease in likelihood |
+| Customers from high risk or non-cooperative jurisdictions using remote facilities to launder criminally derived funds | Medium (2) | High (3) | High (6) | Decrease in likelihood |
+| Customers who appear on international financial sanctions lists laundering criminal funds | Low (1) | High (3) | Medium (3) | No change |
+| 'Smurfing' | High (3) | High (3) | High (9) | Increase in risk |
+| 'Mule' betting accounts | High (3) | High (3) | High (9) | No change |
+| Politically exposed persons (PEPs) | Medium (2) | High (3) | High (6) | New risk rating |
+| Business customers (betting exchange) | Medium (2) | High (3) | High (9) | New risk rating |
+| Use of third parties or agents to obscure the source or ownership of money gambled by customers and their identities | High (3) | High (3) | High (9) | No change |
+
+### Means of Payment Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| E-wallets | Medium (2) | Medium (2) | Medium (4) | No change |
+| Cryptoasset transactions | Medium (2) | High (3) | High (6) | No change |
+| Pre-paid cards | High (3) | High (3) | High (9) | No change |
+| Lack of 'closed loop' system | Medium (2) | High (3) | High (6) | New risk rating |
+| Multiple methods of payment | Medium (2) | High (3) | High (6) | New risk |
+
+### Product Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Peer to peer betting | High (3) | High (3) | High (9) | Increase score |
+| Unregulated betting events | Medium (2) | High (3) | High (6) | New risk rating |
+
+## Case Examples
+
+### Mule Accounts
+
+A student with no formal employment was asked for source of funds information by an operator as part of Know Your Customer (KYC) checks. The student provided a bank statement which showed them making large cash deposits into their bank account, which was followed by smaller transfers to other individuals with the payment references naming other gambling operators.
+
+### Smurfing
+
+An individual was identified as having made regular deposits in relatively low increments, which were then placed on low-risk bets with an almost guaranteed return. The customer attempted to withdraw using an e-wallet and was asked for evidence that they were the legitimate owner of the wallet. At this point, the individual confirmed their e-wallet account had been closed.
+
+## Key Takeaways
+
+- **Highest Risk Areas:** Pre-paid cards, white label providers, mule accounts, smurfing, peer-to-peer betting, inadequate KYC checks, and high monetary thresholds all rated as High (9)
+- **Increasing Threats:** Smurfing has increased in risk, and peer-to-peer betting risk has increased
+- **New Risk Areas:** Business customers on betting exchanges present significant new concerns
+- **KYC Vulnerabilities:** Delayed KYC checks (at withdrawal) create significant laundering windows
+- **Payment Concerns:** Lack of closed loop systems and multiple payment methods facilitate fund obscuration
+
+## Sector-Specific Concerns
+
+### Peer-to-Peer Betting Platforms
+- Enable direct customer-to-customer transactions
+- Increased difficulty in monitoring fund flows
+- Potential for collusion between users
+- Limited operator visibility of true transaction purposes
+
+### Business Customers (Betting Exchanges)
+- New risk rating reflects emerging concerns
+- Higher transaction volumes and complexity
+- Potential use of business structures to obscure beneficial ownership
+- Enhanced due diligence requirements
+
+### Delayed KYC Verification
+- Allowing deposits before full KYC creates laundering window
+- Criminals can deposit illicit funds and attempt immediate withdrawal
+- Source of funds may not be established until after transactions complete
+
+## Regulatory Requirements
+
+Remote betting operators must:
+- Implement robust KYC procedures before accepting deposits where possible
+- Apply enhanced due diligence to high-value customers
+- Monitor for smurfing patterns and structured transactions
+- Implement closed loop payment systems
+- Conduct thorough checks on business customers
+- Monitor peer-to-peer transactions for suspicious patterns
+- Verify e-wallet ownership before processing withdrawals
+- Apply appropriate scrutiny to customers from high-risk jurisdictions
+- Maintain competent AML/CTF personnel
+- Report suspicious activity under POCA and TACT
+- Review white label arrangements for adequate controls
