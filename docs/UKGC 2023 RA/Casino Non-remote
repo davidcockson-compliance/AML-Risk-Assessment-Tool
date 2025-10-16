@@ -1,0 +1,125 @@
+# Casino (Non-Remote) - Money Laundering and Terrorist Financing Risk Assessment 2023
+
+**Overall Risk Rating:** High
+
+## Summary
+
+Non-remote (land-based) casinos present high risk for money laundering and terrorist financing. Key vulnerabilities include cash transactions, employee collusion, and Money Service Business (MSB) activities. The physical presence of customers offers some mitigation compared to remote operations, but significant risks remain.
+
+## Inherent Risks by Vulnerability Category
+
+### Operator Control Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance | High (3) | High (3) | High (9) | No change |
+| Undermining of the Money Laundering Reporting Officer (MLRO) role by senior management which can intentionally or unintentionally lead to exploitation by money launderers | Medium (2) | High (3) | High (6) | Decrease in likelihood |
+| Lack of competence of key personnel and licence holders which can then potentially be exploited by criminals seeking to launder the proceeds of crime | Medium (2) | High (3) | High (6) | Decrease in likelihood |
+| Lack of adequate and relevant due diligence checks conducted resulting in criminals laundering money | High (3) | High (3) | High (9) | No change |
+| Lack of key person in place responsible for regulatory compliance (as required under regulation 21(1)(a)) | Medium (2) | High (3) | High (6) | New risk rating |
+| Employees who do not hold a personal licence being responsible for ID checks | Medium (2) | High (3) | High (6) | New risk rating |
+| Third party business relationships and business investors | Medium (2) | High (3) | High (6) | New risk |
+| Unlicensed casino employees with known criminal records or suspected criminal activities | Medium (2) | High (3) | High (6) | Decrease in likelihood |
+
+### Licensing and Integrity Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Gambling operations being acquired by organised crime to launder criminal proceeds, or the Ultimate Beneficial Ownership is a criminal or involved in a criminal activity | Medium (2) | High (3) | High (6) | No change |
+| Employees colluding with criminals | High (3) | High (3) | High (9) | No change |
+
+### Geographic Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Customer from high-risk jurisdictions using casino facilities to launder money | Medium (2) | High (3) | High (6) | No change |
+
+### Customer Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Customers who appear on financial sanctions list laundering funds which are subject to asset freeze | Low (1) | High (3) | Medium (3) | No change |
+| Foreign politically exposed persons (PEPs) using casinos to clean criminal funds | Medium (2) | High (3) | High (6) | No change |
+| Domestic PEPs using casinos to clean criminal funds | Low (1) | Medium (2) | Low (2) | No change |
+| False or fraudulently obtained or stolen ID docs used to bypass controls | Medium (2) | High (3) | High (6) | No change |
+| Customers breaking up large amounts of cash into small transactions to minimise suspicion and evade customer due diligence (CDD) requirements at the threshold ('smurfing') | High (3) | High (3) | High (9) | Increase in likelihood |
+| Use of third parties or agents to obscure the source or ownership of money gambled by customers and their identities | Medium (2) | High (3) | High (6) | No change |
+
+### Means of Payment Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Cash transactions | High (3) | High (3) | High (9) | No change |
+| Casinos acting as Money Service Businesses (MSBs) | High (3) | High (3) | High (9) | No change |
+| Cryptoasset payments | Medium (2) | High (3) | High (6) | No change |
+| Cashless payments | Medium (2) | High (3) | High (6) | New risk rating |
+| Transfer of funds between casino customers | Medium (2) | High (3) | High (6) | No change |
+| Scottish notes | Low (1) | High (3) | Medium (3) | New risk rating |
+
+### Product Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Bring your own devices (BYODs) | Low (1) | High (3) | Medium (3) | New risk rating |
+| Electronic roulette - when used with ticket in ticket out and automatic ticket redemption machines | Medium (2) | High (3) | High (6) | No change |
+| Gaming machines (all) | Medium (2) | High (3) | High (6) | Decrease in likelihood |
+| Peer to peer gaming (poker) business to customer (B2C) | High (3) | High (3) | High (6) | No change |
+
+## Case Example
+
+### Scottish Notes
+
+An individual attempted to exchange a large quantity of Scottish notes at a casino cash desk and their request was denied. They were later seen on the casino's CCTV inserting large quantities of cash into an electronic gaming machine. The machine was later checked and found to contain several thousand pounds in Scottish notes.
+
+## Money Service Business (MSB) Activities
+
+### Prevalence
+- Approximately 66% of non-remote casinos offered some form of MSB activity during the reporting period
+- MSB activities include foreign exchange, third-party money transmission, and third-party cheque cashing
+- The Gambling Commission acts as the supervisory authority for MSB activities carried out by casinos
+
+### Specific MSB Risks
+
+| Risk Type | Description |
+|-----------|-------------|
+| Foreign exchange | Criminals use casinos to exchange illicit cash for different currencies, obscuring the audit trail |
+| Third-party money transmission | Criminals send money through casinos to avoid detection by financial institutions |
+| Third-party cheque cashing | Casinos cash cheques for individuals who may not have obtained them legitimately |
+
+### Red Flag Indicators for MSB Activity
+
+- Customers who regularly use MSB services but engage in minimal or no gambling
+- Large or frequent foreign exchange transactions with no clear gambling purpose
+- Customers who receive funds via money transmission services but don't gamble with them
+- Requests to cash cheques for amounts significantly higher than typical gambling activity
+- Customers attempting to structure MSB transactions to avoid detection thresholds
+- Use of MSB services followed immediately by withdrawal of funds in different form
+
+### MSB Control Challenges
+
+Commission research found:
+- Approximately 87% of non-remote casinos were unaware of their obligations as MSB providers
+- Around 89% of casinos did not have adequate policies and procedures relating to MSB activity
+- Some casinos were unable to separate their financial data accurately in relation to MSB activity
+
+## Key Takeaways
+
+- **Highest Risk Areas:** Cash transactions, employee collusion, MSB activities, smurfing, and inadequate due diligence all rated as High (9)
+- **Emerging Concerns:** Unlicensed employees conducting ID checks, lack of regulatory compliance personnel
+- **MSB Vulnerabilities:** Significant knowledge gaps among operators regarding MSB obligations
+- **Employee Threats:** Internal collusion and unlicensed staff present substantial vulnerabilities
+- **Increasing Trends:** Smurfing has increased in likelihood
+
+## Regulatory Requirements
+
+Non-remote casinos must:
+- Comply with the Money Laundering, Terrorist Financing and Transfer of Funds Regulations 2017
+- Maintain a properly empowered Money Laundering Reporting Officer (MLRO)
+- Ensure all personnel conducting ID checks hold personal licences
+- Implement adequate policies for MSB activities where offered
+- Separate financial data for MSB activities from gambling activities
+- Conduct enhanced due diligence on high-risk customers
+- Monitor and report suspicious cash transactions
+- Implement effective controls against smurfing
+- Conduct thorough background checks on all employees
+- Ensure key personnel have appropriate AML/CTF competence
