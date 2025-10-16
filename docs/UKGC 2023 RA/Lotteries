@@ -1,0 +1,218 @@
+# Lotteries - Money Laundering and Terrorist Financing Risk Assessment 2023
+
+**Overall Risk Rating:** Low (All lottery sectors)
+
+## Summary
+
+The lottery sector, encompassing society lotteries, external lottery managers (ELMs), and the National Lottery, is rated as low risk for money laundering and terrorist financing. The low stake, low prize nature of most lottery products, combined with the high visibility and regulatory oversight, makes lotteries generally unattractive to money launderers.
+
+---
+
+## Society Lotteries and External Lottery Managers
+
+**Overall Risk Rating:** Low
+
+### Inherent Risks by Vulnerability Category
+
+#### Operator Control Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance | Low (1) | Low (1) | Low (1) | Decrease in likelihood |
+| Third party business relationships and business investors | Low (1) | Low (1) | Low (1) | No change |
+| Licensee failing to transfer lottery proceeds to charities | Low (1) | Medium (2) | Low (2) | Increase in impact |
+
+#### Licensing and Integrity Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Operator being acquired by organised crime to launder criminal funds | Low (1) | Low (1) | Low (1) | No change |
+
+#### Customer Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Anonymous customers (Non-Remote) | Low (1) | Low (1) | Low (1) | No change |
+| False and stolen identity documentation | Low (1) | Low (1) | Low (1) | No change |
+| Customer not physically present (remote) | Low (1) | Low (1) | Low (1) | No change |
+
+#### Product Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Interactive instant win games (online) | Low (1) | Low (1) | Low (1) | No change |
+| Scratch cards or interactive instant win games | Low (1) | Low (1) | Low (1) | No change |
+
+#### Means of Payment Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Cash transactions (non-remote only) | Low (1) | Low (1) | Low (1) | No change |
+
+---
+
+## National Lottery
+
+**Overall Risk Rating:** Low
+
+### Inherent Risks by Vulnerability Category
+
+#### Operator Control Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance | Low (1) | Low (1) | Low (1) | No change |
+| 'Know your customer' (KYC) checks | Low (1) | Low (1) | Low (1) | New risk rating |
+
+#### Licensing and Integrity Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| National Lottery acquired by organised crime to launder criminal funds | Low (1) | Medium (2) | Low (2) | No change |
+
+#### Customer Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Anonymous customers (non-remote) | Low (1) | Medium (2) | Low (2) | No change |
+| False and stolen identity documentation | Low (1) | Low (1) | Low (1) | No change |
+| Customer not physically present (remote) | Low (1) | Low (1) | Low (1) | No change |
+
+#### Product Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Scratch cards or interactive instant win games | Low (1) | Low (1) | Low (1) | No change |
+
+---
+
+## Case Example
+
+### Licensee Failing to Transfer Lottery Proceeds to Charities
+
+An External Lottery Manager (ELM) was convicted of misusing lottery proceeds. The Chief Executive Officer (CEO) used lottery proceeds to cover the costs of running the business and failed to pass on the proceeds to charities.
+
+**Risk Type:** Operational integrity rather than money laundering
+**Impact:** While not traditional ML/TF, demonstrates vulnerability in fund flow controls
+
+---
+
+## Why Lotteries Are Low Risk
+
+### Inherent Characteristics
+
+| Factor | Risk Mitigation |
+|--------|-----------------|
+| **Low stakes** | Most tickets cost £1-£2, making efficient laundering difficult |
+| **Random outcomes** | Cannot guarantee return, unlike other gambling products |
+| **High visibility** | Draw results are public and auditable |
+| **Regulatory oversight** | National Lottery heavily regulated; society lotteries licensed and monitored |
+| **Charitable purpose** | Society lotteries must benefit specific causes, adding scrutiny |
+| **Limited transaction frequency** | Weekly/periodic draws limit transaction volume |
+
+### Operational Factors
+
+| Factor | Risk Mitigation |
+|--------|-----------------|
+| **Retail distribution** | Most sales through regulated retailers (newsagents, supermarkets) |
+| **Digital traceability** | Online sales create clear audit trails |
+| **Prize claim processes** | Large prizes require identity verification |
+| **Age verification** | Mandatory 18+ checks at point of sale |
+| **Transaction limits** | Society lotteries have maximum ticket prices and prize values |
+
+---
+
+## Sector-Specific Considerations
+
+### Society Lotteries vs National Lottery
+
+| Aspect | Society Lotteries | National Lottery |
+|--------|-------------------|------------------|
+| **Purpose** | Raise funds for specific societies/charities | Raise funds for good causes generally |
+| **Size** | Smaller scale operations | Large-scale national operation |
+| **Operator type** | Multiple small operators or ELMs | Single licensed operator |
+| **Acquisition risk** | Very low (1) | Low but higher impact if occurred (2) |
+| **Anonymous customers** | Very low concern (1) | Low but monitored (2) |
+| **Primary concern** | Misuse of proceeds | Operational compliance |
+
+---
+
+## Identified Vulnerabilities (Limited)
+
+### Proceeds Misappropriation
+- **Risk:** Licensee failing to transfer lottery proceeds to charities
+- **Rating:** Low (2)
+- **Concern:** Impact has increased, recognizing harm to charitable beneficiaries
+- **Mitigation:** Enhanced monitoring of fund flows, audit requirements
+
+### Organized Crime Acquisition
+- **Risk:** Operator acquisition by organized crime
+- **Rating:** Low (1-2)
+- **Likelihood:** Very low due to regulatory licensing process
+- **Impact:** Higher for National Lottery due to scale
+- **Mitigation:** Robust licensing and personal management licence requirements
+
+### Anonymous Customers
+- **Risk:** Limited identification at retail purchases
+- **Rating:** Low (1-2)
+- **Concern:** Primarily for large prize claims
+- **Mitigation:** Enhanced verification for prize claims above thresholds
+
+---
+
+## Key Takeaways
+
+### Society Lotteries & External Lottery Managers
+- **Lowest Risk Gambling Sector:** No risks exceed Low (2)
+- **Primary Concern:** Misuse of funds intended for charities rather than traditional ML/TF
+- **Operational Risk:** Main vulnerability is proceeds not reaching intended beneficiaries
+- **Compliance:** Generally good understanding of limited ML/TF risk
+
+### National Lottery
+- **Consistent Low Risk:** All risks rated Low (1-2)
+- **Scale Consideration:** While low risk, the large scale means impact of issues would be significant
+- **Strong Controls:** Robust operator controls and regulatory oversight
+- **KYC:** Newly rated but confirms existing low-risk assessment
+
+---
+
+## Regulatory Requirements
+
+### Society Lottery Operators and ELMs Must:
+- Ensure lottery proceeds are properly transferred to designated societies/charities
+- Maintain accurate records of ticket sales and fund distribution
+- Implement basic policies and procedures appropriate to low-risk environment
+- Verify identity for large prize claims
+- Conduct risk assessments proportionate to their operations
+- Report any suspicious activity under POCA and TACT
+- Comply with licensing conditions specific to society lotteries
+
+### National Lottery Operator Must:
+- Maintain comprehensive AML/CTF policies despite low-risk rating
+- Implement KYC procedures for prize claims above thresholds
+- Monitor for any unusual patterns in ticket purchasing
+- Ensure robust controls over prize payment processes
+- Maintain high standards of operational integrity
+- Comply with specific National Lottery licensing requirements
+- Report suspicious activity under POCA and TACT
+
+### All Lottery Operators Should:
+- Assess third party business relationships
+- Keep policies under periodic review
+- Ensure staff understand their limited but important AML/CTF responsibilities
+- Maintain proportionate record-keeping
+- Cooperate with Gambling Commission supervision
+- Focus compliance efforts on areas of highest risk (primarily fund flow integrity for society lotteries)
+
+---
+
+## Risk Assessment Perspective
+
+The lottery sector's low-risk rating reflects:
+- **Product characteristics** that make lotteries inherently unsuitable for efficient money laundering
+- **Strong regulatory framework** providing effective oversight
+- **Transparent operations** with clear audit trails
+- **Limited criminal appeal** due to random outcomes and low stakes
+- **Effective controls** at both operator and retail distribution levels
+
+While vigilance is always required, the sector can appropriately focus compliance resources proportionate to its low-risk profile, with enhanced attention to ensuring charitable proceeds reach their intended beneficiaries.
