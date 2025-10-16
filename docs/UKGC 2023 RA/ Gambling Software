@@ -1,20 +1,80 @@
-## 🎰 Gambling Software (Remote and Non-Remote)
+# Gambling Software & Gaming Machine Technical - Money Laundering and Terrorist Financing Risk Assessment 2023
 
-### Sector Rating
+**Overall Risk Rating:** Low (Both sectors)
 
-| Sector                                | Previous Overall Risk Rating | Current Overall Risk Rating |
-|---------------------------------------|------------------------------|-----------------------------|
-| Gambling software (remote and non-remote) | Low                          | Low                         |
+## Summary
 
-> The gambling software and gaming machine technical sectors have been assessed separately in this assessment as they are two distinct gambling sectors.  
-> For further information relating to the inherent risks (including vulnerabilities, consequences, and controls), see the [2020 risk assessment](https://www.gamblingcommission.gov.uk/guidance/money-laundering-and-terrorist-financing-risk-assessment-within-the-british-gambling-industry-2020).
+Both gambling software providers and gaming machine technical operators are rated as low risk for money laundering and terrorist financing. These sectors provide infrastructure and technology to gambling operators but do not directly handle customer funds or transactions, significantly reducing their ML/TF exposure.
 
+---
 
+## Gambling Software (Remote and Non-Remote)
 
-## ⚠️ Inherent Risk Assessment
+**Overall Risk Rating:** Low
 
-| Vulnerability                                                                                          | Risk Description     | Likelihood of Event | Impact of Event | Overall Risk | Change in Risk |
-|--------------------------------------------------------------------------------------------------------|----------------------|---------------------|------------------|---------------|----------------|
-| Operators failing to comply with prevention of money laundering and terrorist financing legislation    | Operator control     | Low (1)             | Low (1)          | Low (1)       | No change      |
-| Inadequate or lack of due diligence checks on third-party providers (e.g., test houses)                | Operator control     | Low (1)             | Medium (2)       | Low (2)       | No change      |
-| Third-party business relationships and business investors                                              | Operator control     | Low (1)             | Medium (2)       | Low (2)       | New risk       |
+### Sector Overview
+
+Gambling software providers develop, supply, and maintain software platforms used by gambling operators. They typically do not have direct customer relationships with gamblers and do not process gambling transactions themselves.
+
+### Inherent Risks by Vulnerability Category
+
+#### Operator Control Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance | Low (1) | Low (1) | Low (1) | No change |
+| Inadequate or lack of due diligence checks on any third-party providers (for example, test houses) | Low (1) | Medium (2) | Low (2) | No change |
+| Third-party business relationships and business investors | Low (1) | Medium (2) | Low (2) | New risk |
+
+### Why Gambling Software Is Low Risk
+
+| Factor | Explanation |
+|--------|-------------|
+| **No direct customer funds** | Software providers do not handle gambling transactions or customer money |
+| **B2B relationships** | Business-to-business model with licensed operators, not direct consumer access |
+| **No transaction processing** | Payment processing handled by operators or dedicated payment providers |
+| **Technical role** | Focus on platform functionality, not financial operations |
+| **Operator responsibility** | AML/CTF controls implemented by operators using the software |
+| **Transparent licensing** | Subject to Gambling Commission licensing and technical standards |
+
+### Identified Vulnerabilities
+
+#### Third-Party Relationships
+- **Risk:** Inadequate due diligence on test houses and other technical partners
+- **Rating:** Low (2)
+- **Concern:** Could inadvertently facilitate technically sophisticated criminals
+- **Mitigation:** Enhanced vetting of technical partners and contractors
+
+#### Business Investors
+- **Risk:** Third-party business relationships and investors
+- **Rating:** Low (2) - New risk
+- **Concern:** Potential for organized crime investment in software companies
+- **Mitigation:** Licensing process includes beneficial ownership verification
+
+---
+
+## Gaming Machine Technical (Remote and Non-Remote)
+
+**Overall Risk Rating:** Low
+
+### Sector Overview
+
+Gaming machine technical operators manufacture, supply, install, maintain, and repair gaming machines. Like software providers, they operate at the infrastructure level rather than customer-facing level.
+
+### Inherent Risks by Vulnerability Category
+
+#### Operator Control Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance | Low (1) | Low (1) | Low (1) | No change |
+| Inadequate or lack of due diligence checks on any third-party providers (for example, test houses) | Medium (2) | Low (1) | Low (2) | No change |
+| Lack of adherence with Technical Standards | Low (1) | Low (1) | Low (1) | No change |
+| Third-party business relationships and business investors | Low (1) | Medium (2) | Low (2) | New risk |
+
+#### Product Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Gaming machines Category B, C and D, fixed odds betting terminals (FOBTs), self-service betting terminals (SSBTs), ticket-in-ticket-out (TITO) used to launder the proceeds of crime | Low (1) | Low (1) | Low (1) | No change |
+| TITO-enabled gaming machines used to launder funds when used with Automated ticket redemption machines (ATR) | Low (1) | Low (1) | Low (1) | No
