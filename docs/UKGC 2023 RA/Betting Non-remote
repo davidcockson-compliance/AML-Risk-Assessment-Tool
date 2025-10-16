@@ -1,0 +1,140 @@
+# Betting (Non-Remote) - Money Laundering and Terrorist Financing Risk Assessment 2023
+
+**Overall Risk Rating:** High (Off-course) / Medium (On-course)
+
+## Summary
+
+Non-remote betting presents varying risk levels depending on location. Off-course betting shops are rated as high risk due to cash transactions, gaming machines, and accessibility to multiple premises. On-course betting at racecourses is rated as medium risk, with lower transaction volumes and different operational characteristics reducing some vulnerabilities.
+
+## Inherent Risks by Vulnerability Category
+
+### Operator Control Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk | Applies To |
+|------|------------|--------|--------------|----------------|------------|
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance | High (3) | High (3) | High (9) | No change | Off-course only |
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance | Medium (2) | Medium (2) | Medium (4) | No change | On-course only |
+| Lack of effective customer interaction resulting in a failure to prevent and/or detect Money Laundering or Terrorist financing (ML/TF) | Medium (2) | High (3) | High (6) | No change | Off-course only |
+| Lack of effective customer interaction resulting in a failure to prevent and/or detect ML or TF | Medium (2) | Medium (2) | Medium (4) | No change | On-course only |
+| Inadequate or lack of 'know your customer' (KYC) checks resulting in criminals laundering criminal proceeds | High (3) | High (3) | High (9) | No change | Off-course only |
+| Inadequate or lack of KYC checks resulting in criminals laundering criminal proceeds | Medium (2) | Medium (2) | Medium (4) | No change | On-course only |
+| Third party business relationships and business investors | Medium (2) | High (3) | High (6) | New risk | Off-course only |
+| On-course bookmakers providing unlicensed gambling activities (e.g., accepting bets over the phone without required ancillary betting licence) | Low (1) | Medium (2) | Medium (2) | No change | On-course only |
+
+### Licensing and Integrity Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk | Applies To |
+|------|------------|--------|--------------|----------------|------------|
+| Betting operations being acquired by organised crime to launder criminal proceeds | Low (1) | High (3) | Medium (3) | No change | Off-course only |
+| Betting operations being acquired by organised crime to launder criminal proceeds | Low (1) | High (3) | Medium (3) | No change | On-course only |
+| Betting employees acting in collusion with organised criminals to launder criminal funds | Medium (2) | High (3) | High (6) | No change | Off-course only |
+| Betting employees acting in collusion with organised criminals to launder criminal funds | Low (1) | Medium (2) | Low (2) | No change | On-course only |
+
+### Customer Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk | Applies To |
+|------|------------|--------|--------------|----------------|------------|
+| Unverified customers laundering proceeds of crime through betting | High (3) | High (3) | High (9) | No change | Off-course only |
+| Unverified customers laundering proceeds of crime through betting | Medium (2) | Medium (2) | Medium (4) | No change | On-course only |
+| Accessibility to multiple premises and operators | High (3) | High (3) | High (9) | No change | Off-course only |
+| False or stolen identification documentation used to bypass controls to launder criminal funds | Medium (2) | High (3) | High (6) | Increase in impact | Off-course only |
+| Organised criminal gangs (OCGs) | Low (1) | High (3) | Medium (3) | No change | Both |
+
+### Product Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk | Applies To |
+|------|------------|--------|--------------|----------------|------------|
+| Gaming machines used to launder criminal funds | Medium (2) | High (3) | High (6) | Decrease in likelihood | Off-course only |
+| Self service betting terminals and ticket-in-ticket-out (TITO) machines used to launder criminal funds | Medium (2) | High (3) | High (6) | No change | Off-course only |
+| Bring your own device (BYOD) | Low (1) | Medium (2) | Low (2) | Decrease in impact and likelihood | Both |
+
+### Means of Payment Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk | Applies To |
+|------|------------|--------|--------------|----------------|------------|
+| Cash transactions | High (3) | High (3) | High (9) | No change | Both |
+| Cashless transactions | Medium (2) | High (3) | High (6) | Increase in impact | Off-course only |
+| Dyed notes | Low (1) | Medium (2) | Low (2) | No change | Both |
+| Lack of 'closed loop' system | Medium (2) | High (3) | High (6) | No change | Off-course only |
+| Multiple methods of payment | Medium (2) | High (3) | High (6) | New risk | Off-course only |
+| Scottish notes | Low (1) | High (3) | Medium (3) | No change | Both |
+
+## Case Examples
+
+### Dyed Notes
+
+Two individuals deposited several hundred pounds of bank notes into a self-service betting terminal which were later found to be stained with what appeared to be anti-theft dye. The individuals were then able to withdraw clean notes from counter staff.
+
+### Lack of 'Closed Loop' System and Access to Multiple Premises
+
+An individual deposited several thousand pounds on a self-service betting terminal using a debit card and made bets on several events. The bets were cashed out early before the events had started and the customer was able to withdraw the funds at a different store in the form of cash.
+
+## Key Differences: Off-Course vs On-Course
+
+### Off-Course (High Risk)
+
+**Characteristics:**
+- High street betting shops
+- Greater accessibility and anonymity
+- Gaming machines present
+- Self-service betting terminals (SSBTs)
+- Multiple premises accessible
+- Higher transaction volumes
+
+**Highest Risks:**
+- Cash transactions (9)
+- Unverified customers (9)
+- Inadequate KYC (9)
+- Accessibility to multiple premises (9)
+- Lack of compliance (9)
+
+### On-Course (Medium Risk)
+
+**Characteristics:**
+- Located at racecourses
+- Limited operating times (race days only)
+- Lower transaction volumes
+- More transient customer base
+- No gaming machines
+- More regulated environment
+
+**Key Risk Reductions:**
+- Lower impact of employee collusion
+- Reduced likelihood of unverified customers
+- Less sophisticated money laundering operations
+- Limited accessibility compared to high street
+
+## Key Takeaways
+
+- **Highest Risk Areas (Off-course):** Cash transactions, unverified customers, inadequate KYC, gaming machines, and TITO systems
+- **Vulnerability Differences:** On-course betting generally poses lower risks due to operational constraints
+- **Payment Concerns:** Dyed notes and Scottish notes pose risks in both environments
+- **Gaming Machines:** Significant vulnerability unique to off-course operations
+- **System Weaknesses:** Lack of closed loop systems enables cash-in/cashless-out schemes
+- **Access Patterns:** Multiple premises accessibility in off-course sector facilitates structuring
+
+## Regulatory Requirements
+
+### Off-Course Operators Must:
+- Implement robust KYC procedures at appropriate thresholds
+- Monitor for patterns of transactions across multiple premises
+- Implement effective controls for gaming machines and SSBTs
+- Ensure closed loop systems where cashless payments accepted
+- Train staff to identify and report suspicious cash transactions
+- Monitor for dyed or Scottish notes
+- Apply enhanced scrutiny to high-value or frequent customers
+- Maintain effective customer interaction protocols
+
+### On-Course Operators Must:
+- Comply with all licensing requirements including ancillary licences for remote betting
+- Implement appropriate KYC checks relative to risk level
+- Monitor for suspicious betting patterns
+- Train staff on basic AML/CTF indicators
+- Report suspicious activity under POCA and TACT
+
+### Both Must:
+- Ensure competent key personnel with AML/CTF knowledge
+- Conduct regular risk assessments
+- Implement policies and procedures appropriate to their risk level
+- Monitor third party business relationships
+- Report suspicious activity appropriately
