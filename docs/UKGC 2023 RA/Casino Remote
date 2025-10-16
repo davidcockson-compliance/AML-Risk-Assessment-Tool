@@ -1,0 +1,96 @@
+# Casino (Remote) - Money Laundering and Terrorist Financing Risk Assessment 2023
+
+**Overall Risk Rating:** High
+
+## Summary
+
+Remote casinos present high risk for money laundering and terrorist financing due to factors including the lack of physical customer presence, high monetary thresholds, and the use of multiple payment methods. The sector faces significant vulnerabilities across operator controls, customer verification, and payment mechanisms.
+
+## Inherent Risks by Vulnerability Category
+
+### Operator Control Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance | High (3) | High (3) | High (9) | No change |
+| High monetary thresholds | High (3) | High (3) | High (9) | New risk rating |
+| High value customer schemes | Medium (2) | High (3) | High (6) | Decrease in likelihood |
+| Failure to implement a closed loop system | Medium (2) | High (3) | High (6) | New risk rating |
+| Over reliance on payment providers for carrying out customer due diligence (CDD) measures | Medium (2) | High (3) | High (6) | New risk rating |
+| Third party business relationships and business investors | Medium (2) | High (3) | High (6) | New risk |
+| Lack of competence of key personnel and licence holders which can then potentially be exploited by criminals seeking to launder the proceeds of crime | Medium (2) | High (3) | High (6) | New risk |
+
+### Licensing and Integrity Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Gambling operations being acquired by organised crime to launder criminal proceeds or the Ultimate Beneficial Ownership is a criminal or involved in criminal activity | Low (1) | High (3) | Medium (3) | No change |
+| White label providers | High (3) | High (3) | High (9) | No change |
+
+### Customer Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Customer not physically present for identification purposes | High (3) | High (3) | High (9) | No change |
+| False or stolen identity documentation used to bypass controls to facilitate the laundering of criminal funds | High (3) | High (3) | High (9) | No change |
+| Accessibility to multiple remote casinos | High (3) | High (3) | High (9) | No change |
+| Customers who appear on financial sanctions lists laundering funds which are subject to an asset freeze | Low (1) | High (3) | Medium (3) | No change |
+| Foreign politically exposed persons (PEPs) using casinos to launder illicit or criminal funds | Medium (2) | High (3) | High (6) | No change |
+| Domestic PEPs using casinos to clean criminal funds identification and verification | Low (1) | Medium (2) | Medium (2) | No change |
+| Customers making numerous low-level transactions to minimise suspicion and evade CDD requirements at the threshold ('smurfing') | High (3) | High (3) | High (9) | No change |
+| Use of third parties or agents to obscure the source or ownership of money gambled by customers and their identities | High (3) | High (3) | High (9) | No change |
+| Organised crime gangs | Medium (2) | High (3) | High (6) | New risk rating |
+| Mule accounts | High (3) | High (3) | High (9) | New risk rating |
+
+### Means of Payment Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| E-wallet | Medium (2) | Medium (2) | Medium (4) | No change |
+| Crypto asset transactions | Medium (2) | High (3) | High (6) | No change |
+| Pre-paid cards | High (3) | High (3) | High (9) | No change |
+| Multiple methods of payment | Medium (2) | High (3) | High (6) | New Risk |
+| Casinos acting as Money Service Businesses (MSBs) | High (3) | High (3) | High (9) | New risk |
+
+### Product Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Peer to Peer Gaming (poker) - Business to Business and Business to Customer | High (3) | High (3) | High (9) | No change |
+| High-stakes gambling and feature buy-in slots | Medium (2) | High (3) | High (6) | New risk rating |
+
+### Geographic Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Customers from high-risk jurisdictions using casino facilities to launder criminal funds | Medium (2) | High (3) | High (6) | No change |
+
+## Case Examples
+
+### Pre-paid Cards
+
+**Example 1:** An individual made large deposits using pre-paid cards. When the operator attempted to determine the source of the individual's funds, the customer claimed that they received their salary in cash.
+
+**Example 2:** An individual deposited several thousand pounds with pre-paid cards. Subsequent checks revealed that they were unemployed.
+
+### Smurfing
+
+An individual had several failed deposit attempts and then made a series of deposits in low amounts. Once the deposits had been made, the customer requested an immediate withdrawal without any gameplay and then made a further small deposit.
+
+## Key Takeaways
+
+- **Highest Risk Areas:** Pre-paid cards, white label providers, mule accounts, smurfing, lack of physical customer presence, and MSB activities all rated as High (9)
+- **Emerging Risks:** Third party business relationships, lack of personnel competence, and MSB operations are newly identified high-risk areas
+- **Payment Method Concerns:** Multiple payment methods and crypto assets present significant laundering opportunities
+- **Customer Identification:** Remote nature of operations creates fundamental challenges in customer verification
+
+## Regulatory Requirements
+
+Operators must:
+- Implement effective policies, procedures and controls under Licence Condition 12.1.1
+- Conduct robust customer due diligence (CDD)
+- Implement closed loop systems where appropriate
+- Monitor high-value customer schemes carefully
+- Ensure competent key personnel with appropriate AML/CTF knowledge
+- Apply enhanced scrutiny to customers from high-risk jurisdictions
+- Report suspicious activity appropriately under POCA and TACT
