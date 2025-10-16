@@ -1,0 +1,197 @@
+# Bingo (Remote & Non-Remote) - Money Laundering and Terrorist Financing Risk Assessment 2023
+
+**Overall Risk Rating:** High (Remote) / Medium (Non-Remote)
+
+## Summary
+
+Bingo operations present different risk levels depending on delivery method. Remote bingo is rated as high risk due to challenges with customer verification, multiple account accessibility, and payment method vulnerabilities. Non-remote (land-based) bingo halls are rated as medium risk, with physical customer presence and lower transaction limits providing some mitigation.
+
+---
+
+## Remote Bingo - Inherent Risks
+
+### Operator Control Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance | High (3) | High (3) | High (9) | No change |
+| Operators staking and winning directly and indirectly on their own products | Low (1) | Medium (2) | Low (2) | No change |
+| Poor source of funds checks | High (3) | High (3) | High (9) | No change |
+| Inadequate or lack of 'know your customer' (KYC) checks | High (3) | High (3) | High (9) | No change |
+| Third party business relationships and business investors | Medium (2) | High (3) | High (6) | New risk rating |
+
+### Licensing and Integrity Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Gambling operations run by organised criminals to launder criminally derived funds | Low (1) | High (3) | Medium (3) | No change |
+
+### Customer Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Customer not physically present for identification | High (3) | High (3) | High (9) | No change |
+| False or stolen documentation used to bypass controls to launder criminally derived funds | Medium (2) | High (3) | High (6) | No change |
+| Accessibility to multiple remote accounts | Medium (2) | High (3) | High (6) | Decrease in likelihood |
+| Customers on the sanction list | Low (1) | High (3) | Medium (3) | New risk rating |
+| Use of third parties or agents to obscure the source or ownership of money gambled by customers and their identities | Medium (2) | High (3) | High (6) | New risk rating |
+| 'Smurfing' | Medium (2) | High (3) | High (6) | New risk rating |
+
+### Means of Payment Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Cryptoasset transactions | Medium (2) | High (3) | High (6) | New risk rating |
+| Pre-paid cards | Medium (2) | High (3) | High (6) | Decrease in likelihood |
+| Multiple methods of payment | Medium (2) | High (3) | High (6) | New risk |
+| E-wallets | Medium (2) | Medium (2) | Medium (4) | No change |
+
+---
+
+## Non-Remote Bingo - Inherent Risks
+
+### Operator Control Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance | Medium (2) | Medium (2) | Medium (4) | No change |
+| Lack of or inadequate 'know your customer' (KYC) checks conducted resulting in criminals laundering criminal proceeds | Medium (2) | Medium (2) | Medium (4) | No change |
+| Third party business relationships and business investors | Medium (2) | Medium (2) | Medium (4) | New risk |
+
+### Licensing and Integrity Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Gambling operations being acquired by organised crime to launder criminal proceeds | Low (1) | Medium (2) | Low (2) | No change |
+| Employees colluding with criminals | Low (1) | Medium (2) | Low (2) | No change |
+
+### Customer Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Anonymous customers laundering proceeds of crime through gaming machines | Low (1) | Medium (2) | Low (2) | No change |
+
+### Product Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Electronic Betting Terminals (EBTs) including table-top gaming (either traditionally or via EBT content) | Low (1) | Medium (2) | Low (2) | No change |
+| Gaming Machines, Category B3 | Low (1) | Medium (2) | Low (2) | No change |
+| Bring your own device (BYOD) | Low (1) | Medium (2) | Low (2) | New risk rating |
+
+### Means of Payment Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Cash payments | Medium (2) | Medium (2) | Medium (4) | No change |
+| Ticket-in-ticket-out (TITO) facilities used to launder funds when used in conjunction with automatic ticket redemption machines (ATR) | Medium (2) | Medium (2) | Medium (4) | No change |
+| Cashless payment | Low (1) | Medium (2) | Low (2) | No change |
+| Scottish notes | Low (1) | Medium (2) | Low (2) | New risk |
+
+## Case Examples
+
+### False or Stolen ID (Remote Bingo)
+
+A criminal used stolen ID and debit cards with a gambling operator. The individual deposited funds from several stolen debit cards into the gambling account and then attempted to withdraw the funds to one debit card.
+
+### Multiple Methods of Payment (Remote Bingo)
+
+**Example 1:** An individual made deposits into their gambling account from several different debit cards as well as an e-wallet. When withdrawing funds, they only used the e-wallet.
+
+**Example 2:** A customer made multiple deposits using numerous debit cards within the first hour of opening their account.
+
+### Accessibility to Multiple Accounts (Remote Bingo)
+
+Following Know Your Customer (KYC) checks an individual was identified as having deposits and credits with several dozen online gambling operators and payment processors during only a few months.
+
+### Scottish Notes (Non-Remote Bingo)
+
+A customer attempted to exchange a large amount of Scottish notes for English notes at the cash desk but was unable to explain the origin of the funds when asked.
+
+## Key Differences: Remote vs Non-Remote
+
+### Remote Bingo (High Risk)
+
+**Key Vulnerabilities:**
+- No physical customer presence (9)
+- Poor source of funds checks (9)
+- Inadequate KYC checks (9)
+- Multiple payment methods
+- Cryptoasset transactions
+- Pre-paid cards
+
+**Operational Characteristics:**
+- Higher transaction volumes
+- 24/7 accessibility
+- Anonymous nature of online play
+- Multiple account accessibility
+- Easier to structure transactions
+
+### Non-Remote Bingo (Medium Risk)
+
+**Key Mitigations:**
+- Physical customer presence
+- Lower transaction limits
+- Social/community nature of venues
+- Staff-customer interaction
+- Limited gaming machine exposure
+
+**Operational Characteristics:**
+- Lower transaction volumes
+- Predominantly cash-based
+- Regular customer base
+- Limited hours of operation
+- Physical security measures
+
+## Emerging Risks and Trends
+
+### Remote Bingo
+- **Third party agents:** Increased use of agents to obscure source and ownership of funds
+- **Smurfing patterns:** Multiple small deposits to avoid detection thresholds
+- **Cryptoassets:** Growing concern as payment method
+- **Multiple accounts:** Despite decrease in likelihood, remains significant concern
+
+### Non-Remote Bingo
+- **TITO systems:** When combined with ATR machines, create laundering opportunities
+- **Scottish notes:** Emerging concern for cash verification
+- **BYOD systems:** New technology introducing new vulnerabilities
+
+## Key Takeaways
+
+### Remote Bingo
+- **Highest Risk Areas:** Lack of physical presence, poor source of funds checks, inadequate KYC all rated High (9)
+- **Payment Vulnerabilities:** Multiple methods, cryptoassets, and pre-paid cards all present significant risks
+- **Customer Risks:** Third party agents and smurfing are emerging concerns
+
+### Non-Remote Bingo
+- **Overall Lower Risk:** Physical presence and operational controls reduce risk to medium
+- **Cash Concerns:** Cash payments and TITO systems present main vulnerabilities
+- **Gaming Machines:** Category B3 machines and EBTs present some risk but lower than other sectors
+
+## Regulatory Requirements
+
+### Remote Bingo Operators Must:
+- Implement robust KYC procedures before allowing play
+- Conduct thorough source of funds checks, especially for high-value customers
+- Monitor for multiple account patterns
+- Verify identity documents carefully
+- Apply enhanced scrutiny to cryptoasset and pre-paid card transactions
+- Monitor for smurfing and structuring patterns
+- Check customers against sanctions lists
+- Investigate use of third party agents
+- Ensure competent AML/CTF personnel
+
+### Non-Remote Bingo Operators Must:
+- Implement appropriate KYC checks relative to risk level
+- Monitor cash transactions for suspicious patterns
+- Train staff to identify Scottish notes and dyed currency
+- Apply appropriate controls to TITO and ATR systems
+- Monitor gaming machine usage patterns
+- Conduct regular risk assessments
+- Report suspicious activity under POCA and TACT
+
+### Both Must:
+- Assess third party business relationships and investors
+- Maintain effective policies, procedures and controls
+- Keep systems under regular review
+- Ensure compliance with prevention of money laundering and terrorist financing legislation
