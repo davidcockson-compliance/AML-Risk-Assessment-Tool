@@ -1,0 +1,187 @@
+# Adult Gaming Centres (AGCs) & Family Entertainment Centres (FECs) - Money Laundering and Terrorist Financing Risk Assessment 2023
+
+**Overall Risk Rating:** Medium (AGCs) / Low (FECs)
+
+## Summary
+
+Adult Gaming Centres and Family Entertainment Centres present different risk profiles. AGCs are rated as medium risk due to higher-stake gaming machines, cash transactions, and anonymous customer access. FECs are rated as low risk due to lower stake limits, family-oriented environments, and reduced criminal appeal.
+
+## Inherent Risks by Vulnerability Category
+
+### Operator Control Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk | Applies To |
+|------|------------|--------|--------------|----------------|------------|
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation and guidance | Low (1) | Medium (2) | Low (2) | No change | Both |
+| Lack of competency of key personnel and licence holders which can then be exploited by criminals seeking to launder the proceeds of crime | Low (1) | Medium (2) | Low (2) | No change | AGCs only |
+| Lack of competency of key personnel and licence holders which can then be exploited by criminals seeking to launder the proceeds of crime | Low (1) | Medium (2) | Low (2) | No change | FECs only |
+| Third party business relationships and business investors | Low (1) | Medium (2) | Low (2) | New risk | Both |
+
+### Licensing and Integrity Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk | Applies To |
+|------|------------|--------|--------------|----------------|------------|
+| Arcade businesses being acquired by organised crime to launder criminal proceeds | Low (1) | Medium (2) | Low (2) | No change | AGCs only |
+| Arcade businesses being acquired by organised crime to launder criminal proceeds | Low (1) | Low (1) | Low (1) | No change | FECs only |
+
+### Customer Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk | Applies To |
+|------|------------|--------|--------------|----------------|------------|
+| Anonymous customers laundering proceeds of crime through gaming machines | Medium (2) | Medium (2) | Medium (4) | No change | AGCs only |
+| Anonymous customers laundering proceeds of crime through gaming machines | Low (1) | Low (1) | Low (1) | No change | FECs only |
+
+### Product Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk | Applies To |
+|------|------------|--------|--------------|----------------|------------|
+| Automated ticket redemption (ATR) machines used to facilitate the laundering of criminally derived funds | Low (1) | Medium (2) | Low (2) | No change | AGCs only |
+| Gaming machines, Category B3 being used to launder criminally derived funds | Medium (2) | Medium (2) | Medium (4) | No change | AGCs only |
+| Privacy booths | Medium (2) | Medium (2) | Medium (4) | No change | AGCs only |
+| Privacy booths | Medium (2) | Low (1) | Low (2) | No change | FECs only |
+| Bring your own device (BYOD) | Low (1) | Medium (2) | Low (2) | No change | Both |
+
+### Means of Payment Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk | Applies To |
+|------|------------|--------|--------------|----------------|------------|
+| Cash transactions | Medium (2) | Medium (2) | Medium (4) | Increase in likelihood | Both |
+| Cashless payments | Medium (2) | Medium (2) | Medium (4) | No change | Both |
+| Ticket-in-ticket-out (TITO) facilities used to launder funds, when used in conjunction with ATR machines | Low (1) | Medium (2) | Low (2) | No change | AGCs only |
+| Dyed notes | Low (1) | Medium (2) | Low (2) | No change | Both |
+| Scottish notes | Low (1) | Medium (2) | Low (2) | New risk | Both |
+
+## Case Examples
+
+### Dyed Notes
+
+Several hundred pounds of stained notes were found in gaming machines located at an AGC.
+
+### Scottish Notes
+
+Counterfeit Scottish notes have been found in gaming machines at several venues across the UK.
+
+## Key Differences: AGCs vs FECs
+
+### Adult Gaming Centres (Medium Risk)
+
+**Characteristics:**
+- 18+ only venues
+- Higher-stake gaming machines (Category B3)
+- Larger cash transactions
+- Anonymous customer access
+- Privacy booths available
+- ATR and TITO systems
+
+**Key Vulnerabilities:**
+- Anonymous customers (4)
+- Category B3 gaming machines (4)
+- Privacy booths (4)
+- Cash transactions (4)
+- Cashless payments (4)
+
+**Criminal Appeal:**
+- Higher stake limits attract money launderers
+- Privacy features facilitate anonymous transactions
+- ATR/TITO systems enable quick cash conversion
+- Multiple machines allow transaction structuring
+
+### Family Entertainment Centres (Low Risk)
+
+**Characteristics:**
+- Family-oriented venues
+- Lower-stake gaming machines (Category C & D)
+- Smaller transaction amounts
+- Supervised environment
+- Limited privacy features
+
+**Key Vulnerabilities:**
+- Very low across all categories
+- Highest risk areas only rated Low (2)
+
+**Criminal Appeal:**
+- Low stake limits make laundering inefficient
+- Family environment increases visibility
+- Lower transaction volumes
+- Limited anonymity
+
+## Product-Specific Risks
+
+### Category B3 Gaming Machines (AGCs)
+- **Maximum stake:** £2
+- **Maximum prize:** £500
+- **Risk factors:**
+  - Higher prizes attract criminals
+  - Can be used for multiple small transactions
+  - Combined with privacy booths increases risk
+  - TITO systems enable rapid cash conversion
+
+### Privacy Booths
+- **AGCs (Medium/4):** Provide anonymity for suspicious activity
+- **FECs (Low/2):** Less concerning in family environment
+- **Risk factors:**
+  - Reduce staff oversight
+  - Enable private large transactions
+  - Difficult to monitor customer behavior
+  - Can facilitate structuring
+
+### ATR and TITO Systems (AGCs Only)
+- **Risk factors:**
+  - Rapid cash-to-ticket-to-cash conversion
+  - Breaks audit trail
+  - Enables laundering without gameplay
+  - Can be used across multiple machines
+
+## Emerging Risks and Trends
+
+### Increasing Concerns
+- **Cash transactions:** Likelihood has increased in both AGCs and FECs
+- **Scottish notes:** Newly identified risk due to counterfeiting concerns
+- **Cashless payments:** Emerging payment methods creating new vulnerabilities
+
+### Technology Risks
+- **BYOD systems:** New technology introducing monitoring challenges
+- **Cashless systems:** While convenient, create new laundering vectors
+- **TITO/ATR integration:** Combined systems particularly vulnerable
+
+## Key Takeaways
+
+### Adult Gaming Centres
+- **Medium Risk Overall:** Cash transactions, gaming machines, and privacy features create moderate laundering opportunities
+- **Highest Risk Areas:** Anonymous customers (4), Category B3 machines (4), privacy booths (4), and cash transactions (4)
+- **Control Gaps:** Lack of mandatory customer identification at point of entry
+- **Trend:** Cash transaction likelihood increasing
+
+### Family Entertainment Centres
+- **Low Risk Overall:** Low stakes and family environment significantly reduce criminal appeal
+- **Limited Vulnerabilities:** No risks rated above Low (2)
+- **Organizational Crime:** Very low likelihood of acquisition by criminals (1)
+- **Primary Concern:** Cash transactions remain only moderate risk
+
+## Regulatory Requirements
+
+### AGC Operators Must:
+- Implement risk-based approach to customer identification
+- Monitor gaming machine usage patterns, especially Category B3
+- Train staff to identify suspicious cash transactions
+- Apply appropriate controls to privacy booths (e.g., CCTV coverage)
+- Implement effective TITO/ATR system controls and monitoring
+- Check cash for dyed or counterfeit Scottish notes
+- Monitor for customers using multiple machines in short periods
+- Report suspicious activity under POCA and TACT
+- Ensure key personnel have basic AML/CTF competence
+
+### FEC Operators Must:
+- Maintain basic policies and procedures appropriate to low-risk environment
+- Train staff to identify obviously suspicious activity
+- Monitor cash transactions for unusual patterns
+- Check for counterfeit or dyed notes
+- Conduct periodic risk assessments
+- Report any suspicious activity under POCA and TACT
+
+### Both Must:
+- Assess third party business relationships and investors
+- Keep policies and procedures under review
+- Ensure compliance with prevention of money laundering and terrorist financing legislation
+- Maintain records appropriate to risk level
+- Cooperate with Gambling Commission supervisory activities
