@@ -1,0 +1,22 @@
+{
+  "title": " Risk Tracker",
+  "type": "object",
+  "properties": {
+    "RiskID": { "type": "string" },
+    "RiskTitle": { "type": "string" },
+    "RiskDescription": { "type": "string" },
+    "ApplicableSectors": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["Bingo", "Healthcare", "Casino landbased", "Gambling Software", "Casino Remote", "AGC", "Technical"]
+      }
+    },
+    "SourceReference": {
+      "type": "string",
+      "format": "uri",
+      "description": "Link or citation to the source of the risk information"
+    }
+  },
+  "required": ["RiskID", "RiskTitle", "RiskDescription"]
+}
