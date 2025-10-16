@@ -1,0 +1,20 @@
+## 🎰 Gambling Software (Remote and Non-Remote)
+
+### Sector Rating
+
+| Sector                                | Previous Overall Risk Rating | Current Overall Risk Rating |
+|---------------------------------------|------------------------------|-----------------------------|
+| Gambling software (remote and non-remote) | Low                          | Low                         |
+
+> The gambling software and gaming machine technical sectors have been assessed separately in this assessment as they are two distinct gambling sectors.  
+> For further information relating to the inherent risks (including vulnerabilities, consequences, and controls), see the [2020 risk assessment](https://www.gamblingcommission.gov.uk/guidance/money-laundering-and-terrorist-financing-risk-assessment-within-the-british-gambling-industry-2020).
+
+
+
+## ⚠️ Inherent Risk Assessment
+
+| Vulnerability                                                                                          | Risk Description     | Likelihood of Event | Impact of Event | Overall Risk | Change in Risk |
+|--------------------------------------------------------------------------------------------------------|----------------------|---------------------|------------------|---------------|----------------|
+| Operators failing to comply with prevention of money laundering and terrorist financing legislation    | Operator control     | Low (1)             | Low (1)          | Low (1)       | No change      |
+| Inadequate or lack of due diligence checks on third-party providers (e.g., test houses)                | Operator control     | Low (1)             | Medium (2)       | Low (2)       | No change      |
+| Third-party business relationships and business investors                                              | Operator control     | Low (1)             | Medium (2)       | Low (2)       | New risk       |
