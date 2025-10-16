@@ -1,0 +1,407 @@
+# Terrorist Financing - Money Laundering and Terrorist Financing Risk Assessment 2023
+
+**Overall Risk Rating:** Medium (across all gambling sectors)
+
+**Previous Overall Risk Rating:** Low
+
+## Summary
+
+The terrorist financing risk assessment applies across all gambling sectors and has been upgraded from Low to Medium. While the likelihood of terrorist financing occurring remains Low, the impact assessment has increased from Low to High, reflecting the severe consequences of any successful terrorist financing activity. This assessment is partially based on the National Risk Assessment and close collaboration with UK counter-terrorism teams.
+
+## Change in Risk Assessment
+
+| Risk Element | Previous Rating | Current Rating | Explanation |
+|--------------|----------------|----------------|-------------|
+| **Overall TF Risk** | Low | Medium | Impact increased from Low to High |
+| **Likelihood** | Low (1) | Low (1) | Remains low across all risks |
+| **Impact** | Low (1) | High (3) | Increased to High (3) across all categories |
+| **Risk Score** | 1 | 3 | Likelihood (1) × Impact (3) = Medium (3) |
+
+**Key Change:** The significant increase reflects recognition that while terrorist financing in gambling is unlikely, if it occurs the consequences would be severe.
+
+## Inherent Risks by Vulnerability Category
+
+### Operator Control Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Operators failing to understand or take consideration of terrorist financing vulnerabilities and applicable legislation | Low (1) | High (3) | Medium (3) | Increase in impact |
+
+### Product Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Money Service Businesses (MSB) | Low (1) | High (3) | Medium (3) | Increase in impact |
+| Charities and terrorist financing | Low (1) | High (3) | Medium (3) | Increase in impact |
+
+### Customer Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Mule accounts | Low (1) | High (3) | Medium (3) | Increase in impact |
+| Increase in right-wing terrorism | Low (1) | High (3) | Medium (3) | Increase in impact |
+
+### Means of Payment Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| Cryptoasset transactions | Low (1) | High (3) | Medium (3) | Increase in impact |
+| Pre-paid cards | Low (1) | High (3) | Medium (3) | Increase in impact |
+| Cash transactions | Low (1) | High (3) | Medium (3) | Increase in impact |
+
+### Geographic Vulnerabilities
+
+| Risk | Likelihood | Impact | Overall Risk | Change in Risk |
+|------|------------|--------|--------------|----------------|
+| International terrorism | Low (1) | High (3) | Medium (3) | Increase in impact |
+
+## Detailed Risk Analysis
+
+### Operator Understanding and Compliance
+
+**The Risk:**
+- Operators may not fully understand terrorist financing vulnerabilities specific to gambling
+- TF differs from money laundering in motivation and indicators
+- Applicable legislation (TACT 2000) requires different awareness and response
+
+**Why Impact Is High:**
+- Failure to detect TF could facilitate serious harm
+- Regulatory and reputational consequences are severe
+- Public safety implications
+
+**Mitigation Required:**
+- Specific TF training for key personnel
+- Understanding of TF typologies and indicators
+- Awareness of differences between ML and TF
+- Knowledge of TACT 2000 requirements
+
+### Money Service Business (MSB) Activities
+
+**The Risk:**
+- Casino MSB activities (foreign exchange, money transmission, cheque cashing) could be exploited for TF
+- Rapid movement of funds across borders
+- Obscuring source and destination of terrorist funds
+
+**Why Impact Is High:**
+- MSB activities enable international fund transfers
+- Can break audit trails
+- Harder to track fund flows
+
+**Prevalence:**
+- ~66% of non-remote casinos offer MSB services
+- ~2% of remote casinos offer MSB services
+
+**Red Flags:**
+- MSB activity without commensurate gambling
+- Unusual geographic patterns in fund transfers
+- Structuring of MSB transactions
+
+### Charities and Terrorist Financing
+
+**The Risk:**
+- Society lotteries and charitable gambling could be exploited
+- Funds intended for legitimate charities diverted to terrorist causes
+- Use of charity structures to obscure terrorist financing
+
+**Why Impact Is High:**
+- Exploitation of charitable trust
+- Funds could directly support terrorist activity
+- Abuse of legitimate charitable purposes
+
+**Specific Concerns:**
+- External Lottery Managers handling charitable funds
+- Verification of charitable beneficiaries
+- Monitoring of fund distribution
+
+### Mule Accounts
+
+**The Risk:**
+- Individuals (often vulnerable or unknowing) used to move terrorist funds through gambling accounts
+- Similar to money laundering mules but for TF purposes
+- Can involve students, unemployed, or financially vulnerable persons
+
+**Why Impact Is High:**
+- Enables terrorist financiers to distance themselves from fund movements
+- Creates complex investigation challenges
+- Multiple mule accounts can move significant funds
+
+**Indicators:**
+- Accounts with activity inconsistent with customer profile
+- Rapid deposit and withdrawal patterns
+- Funds received from/sent to multiple third parties
+- Student or unemployed accounts with high activity
+
+### Right-Wing Terrorism
+
+**The Risk:**
+- Increasing threat from right-wing extremism in UK
+- May use gambling to move or obscure funds
+- Different profile from traditional terrorism financing
+
+**Why Impact Is High:**
+- Growing threat category
+- Severe consequences of successful attacks
+- May not match traditional TF indicators
+
+**Considerations:**
+- Different funding patterns than international terrorism
+- May involve smaller amounts
+- Domestic rather than international transfers
+- Operators need awareness of evolving threat
+
+### Cryptoasset Transactions
+
+**The Risk:**
+- Anonymity and speed of cryptocurrency transactions
+- Difficulty tracing across blockchain
+- International reach without traditional banking oversight
+
+**Why Impact Is High:**
+- Enables rapid international fund movement
+- Harder to detect and investigate
+- Growing use in gambling sector
+
+**Challenges:**
+- Limited visibility of crypto wallet ownership
+- Cross-border nature
+- Speed of transactions
+- Emerging technology
+
+### Pre-paid Cards
+
+**The Risk:**
+- Anonymity in obtaining and using cards
+- Can be passed between individuals
+- Difficult to trace ultimate beneficial owner
+
+**Why Impact Is High:**
+- Enables anonymous value transfer
+- Can be used by multiple people
+- Harder to link to identified individuals
+
+**Concerns:**
+- Multiple pre-paid cards to one account
+- Cards loaded but minimal gambling
+- Rapid load-and-withdrawal patterns
+
+### Cash Transactions
+
+**The Risk:**
+- Ultimate anonymity
+- No digital trail
+- Can involve large amounts in land-based venues
+
+**Why Impact Is High:**
+- Complete obscuration of fund source
+- Difficult to link to terrorist financing networks
+- Large amounts can move through casinos
+
+**Particular Concern:**
+- Land-based casinos and betting shops
+- Smurfing of cash deposits
+- Cash MSB activities
+
+### International Terrorism
+
+**The Risk:**
+- Use of gambling to move funds internationally
+- Particularly relevant for remote operators with international reach
+- Customers from high-risk jurisdictions
+
+**Why Impact Is High:**
+- Facilitates cross-border terrorist financing
+- Connects UK to international terrorist networks
+- Enables funding of attacks abroad or in UK
+
+**Considerations:**
+- Customers from conflict zones or high-risk countries
+- Unusual international transaction patterns
+- Links to jurisdictions with terrorism concerns
+
+## Red Flag Indicators
+
+Operators should be alert to the following potential terrorist financing indicators:
+
+### Customer Behavior
+- Customer profile inconsistent with gambling activity
+- Minimal gambling relative to deposits/withdrawals
+- Rapid turnover of funds with little gameplay
+- Use of mule account patterns
+- Multiple accounts or customers with similar patterns
+- Activity linked to high-risk jurisdictions
+- Politically motivated statements or affiliations
+
+### Transaction Patterns
+- Structuring to avoid reporting thresholds
+- Deposits from multiple sources, withdrawals to single destination
+- Use of multiple payment methods to obscure funds
+- MSB activity without corresponding gambling
+- Cryptoasset transactions with unusual patterns
+- Pre-paid cards from multiple individuals
+- Large cash transactions without clear legitimate source
+
+### Fund Flows
+- Funds moving through account with minimal retention
+- International transfers to/from high-risk jurisdictions
+- Links to known terrorist organizations or jurisdictions
+- Charity-related accounts with unusual patterns
+- Funds moving to known conflict zones
+- Connections to individuals on sanctions lists
+
+### Timing and Context
+- Activity coinciding with terrorist events or threats
+- Sudden changes in gambling patterns
+- Account activation during heightened threat periods
+- Multiple accounts opened simultaneously
+- Activity around significant dates or events
+
+## Contextual Factors
+
+### National Risk Assessment Alignment
+
+The National Risk Assessment (NRA) rates gambling as low risk for terrorist financing. However:
+
+- **NRA scope:** Assesses relative risk across all regulated sectors
+- **Commission scope:** Assesses within gambling sector only
+- **Different perspectives:** Both valid for different purposes
+- **Vigilance required:** Low national rating doesn't eliminate need for controls
+
+### Collaboration with Counter-Terrorism Teams
+
+This assessment developed with input from:
+- UK counter-terrorism police
+- Security services
+- National Crime Agency (NCA)
+- Home Office counter-terrorism specialists
+
+**Key learnings:**
+- Evolving terrorist financing typologies
+- Gambling-specific TF vulnerabilities
+- Current threat landscape
+- Emerging risks and trends
+
+### Why Impact Increased to High
+
+| Factor | Explanation |
+|--------|-------------|
+| **Consequence severity** | Successful TF could facilitate serious harm to public |
+| **Regulatory implications** | Failure to prevent TF has severe consequences |
+| **Public confidence** | TF incidents would damage sector reputation |
+| **National security** | Direct link to counter-terrorism objectives |
+| **International obligations** | UK commitments to combat TF globally |
+| **Evolving threats** | Increasing diversity of terrorist financing methods |
+
+## Sector-Specific Considerations
+
+### High-Risk Sectors for TF
+
+| Sector | TF Considerations |
+|--------|------------------|
+| **Remote casinos** | International reach, cryptoassets, MSB activities |
+| **Non-remote casinos** | Cash transactions, MSB activities, international customers |
+| **Remote betting** | Multiple accounts, rapid transactions, international |
+| **Society lotteries** | Charitable purpose exploitation risk |
+
+### Lower-Risk Sectors for TF
+
+| Sector | Why Lower Risk |
+|--------|---------------|
+| **FECs** | Low transaction limits, family environment |
+| **On-course betting** | Limited hours, transient customers, lower volumes |
+| **Gaming machine technical** | Infrastructure only, no customer funds |
+| **Gambling software** | Infrastructure only, no customer funds |
+
+## Key Takeaways
+
+### Overall Assessment
+- **Medium Risk:** Reflects high impact despite low likelihood
+- **All Sectors Affected:** TF risk applies across gambling industry
+- **Significant Change:** Impact rating doubled from Low to High
+- **Heightened Awareness:** Operators must increase TF vigilance
+
+### Priority Areas
+- **MSB Activities:** Particularly high concern (casinos)
+- **Cryptoassets:** Growing vulnerability across remote sector
+- **Mule Accounts:** Increasing concern across all sectors
+- **Cash Transactions:** Persistent vulnerability (land-based)
+- **International Terrorism:** Cross-border fund movements
+
+### Operator Response Required
+- **Enhanced Training:** Specific TF awareness for all relevant staff
+- **System Updates:** Ensure monitoring captures TF indicators
+- **Risk Assessments:** Include specific TF scenarios
+- **Reporting:** Understand differences between ML and TF reporting
+- **Intelligence Sharing:** Engage with law enforcement on TF trends
+
+## Regulatory Requirements
+
+### All Gambling Operators Must:
+
+**Understanding and Awareness:**
+- Understand terrorist financing risks specific to their sector
+- Know the differences between ML and TF indicators
+- Be aware of TACT 2000 requirements
+- Keep informed of evolving TF typologies
+- Understand current terrorism threat landscape
+
+**Policies and Procedures:**
+- Include TF-specific controls in AML/CTF policies
+- Have procedures for identifying TF red flags
+- Implement enhanced monitoring for TF indicators
+- Maintain TF risk assessments
+- Review policies considering this assessment
+
+**Training:**
+- Provide TF-specific training to relevant staff
+- Cover TF indicators different from ML
+- Train on current terrorism threats
+- Ensure understanding of reporting obligations
+- Include case studies and scenarios
+
+**Monitoring and Detection:**
+- Monitor for TF-specific transaction patterns
+- Apply enhanced scrutiny to high-risk indicators
+- Monitor charity-related activities (where relevant)
+- Screen against terrorism sanctions lists
+- Review MSB activities for TF risk (casinos)
+
+**Reporting:**
+- Report suspicious activity that may relate to TF under TACT 2000
+- Understand different reporting standards for TF vs ML
+- Timely reporting of TF concerns
+- Cooperate with law enforcement investigations
+- Maintain confidentiality of TF reports
+
+### Sector-Specific Requirements:
+
+**Casinos (Remote and Non-Remote):**
+- Enhanced scrutiny of MSB activities for TF indicators
+- Specific monitoring of international fund transfers
+- Cryptoasset transaction monitoring (remote)
+- Cash transaction vigilance (non-remote)
+- Customer due diligence on high-risk jurisdictions
+
+**Betting and Bingo Operators:**
+- Monitor for mule account indicators
+- Enhanced scrutiny of cryptoasset transactions
+- Monitor multiple account patterns
+- Awareness of structuring for TF purposes
+
+**Society Lotteries and ELMs:**
+- Ensure charitable proceeds reach legitimate beneficiaries
+- Verify charitable organizations
+- Monitor for exploitation of charitable structures
+
+**All Remote Operators:**
+- Enhanced monitoring of international customers
+- Cryptoasset transaction scrutiny
+- Multiple payment method monitoring
+- Geographic risk assessments
+
+## Conclusion
+
+The upgrade of terrorist financing risk from Low to Medium reflects a more nuanced understanding of the potential consequences rather than an increase in likelihood. While terrorist financing through gambling remains unlikely, the severe impact of any successful TF activity justifies heightened vigilance and enhanced controls.
+
+Operators across all gambling sectors must ensure they understand TF-specific risks, implement appropriate controls, and maintain awareness of evolving terrorist financing typologies. The low likelihood should not lead to complacency—the high impact demands proportionate attention and effective risk mitigation.
+
+This assessment should be read alongside sector-specific ML risk assessments, as many vulnerabilities can be exploited for both ML and TF purposes, though the indicators and investigation processes may differ.
